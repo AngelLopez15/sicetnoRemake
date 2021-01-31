@@ -19,7 +19,7 @@ const IndexPage = () => (
         <blockquote cite="http://www.hchr.org.mx/index.php?option=com_content&view=article&id=133:informe-del-relator-especial-sobre-la-situacion-de-los-derechos-humanos-y-las-libertades-fundamentales-de-los-indigenas-sr-rodolfo-stavenhagen-mision-a-mexico-2003&catid=17&Itemid=278">
           <p>“En la actualidad las violaciones a los derechos humanos de los indígenas se dan con frecuencia en el marco de un alto grado de conflictividad, particularmente en el medio rural, que tiene que ver en especial con la cuestión agraria y con pugnas en torno al poder político local y regional. El Relator Especial fue informado reiteradamente de la existencia de conflictos en comunidades indígenas donde ocurren actos de violencia e intervenciones de las autoridades públicas, que pueden configurar violaciones a los derechos humanos. Según los informes recibidos, muchas de estas permanecen impunes y provocan el agravamiento de los conflictos y el recrudecimiento de la violencia.”<sup>1</sup></p>
         </blockquote>
-        <p>1 Naciones Unidas (2003). Comisión de Derechos Humanos. Tema 15 del programa provisional. Recuperado de: <a>hchr</a></p>
+        <p>1 Naciones Unidas (2003). Comisión de Derechos Humanos. Tema 15 del programa provisional. Recuperado de: <a target="_blank" rel="noopener noreferrer" href="http://www.hchr.org.mx/index.php?option=com_content&view=article&id=133:informe-del-relator-especial-sobre-la-situacion-de-los-derechos-humanos-y-las-libertades-fundamentales-de-los-indigenas-sr-rodolfo-stavenhagen-mision-a-mexico-2003&catid=17&Itemid=278">hchr</a></p>
       </section>
       <section className="mb-10">
         <h2>Herramientas de SICETNO</h2>
