@@ -6,7 +6,7 @@ export default function actualizacion() {
   return (
     <Layout>
       <header className="bg-red-200 py-24 text-center">
-        <h1 className="text-white text-6xl ">Sobre la actualización</h1>
+        <h1 className="text-white text-6xl">Sobre la actualización</h1>
       </header>
       <main className="container mx-auto px-10 text-justify leading-7">
         <section className="my-10">
