@@ -8,8 +8,8 @@ export default function actualizacion() {
       <header className="bg-red-200 py-24 text-center">
         <h1 className="text-white text-6xl ">Sobre la actualización</h1>
       </header>
-      <main>
-        <section className="container mx-auto text-justify leading-7 px-10 my-10">
+      <main className="container mx-auto px-10 text-justify leading-7">
+        <section className="my-10">
           <h2 className="text-moradoSicetno text-4xl text-center mb-10">Nota metodológica</h2>
           <p className="mb-6">En el tercer trimestre del año 2018 se comenzó a trabajar en la actualización de la base de datos del Sistema de Consulta de Organizaciones Indígenas y Conflictos Étnicos en las Américas, específicamente en lo correspondiente a los conflictos étnicos en México.</p>
           <p className="mb-6">Para realizar la actualización de la información contenida en la plataforma digital se realizó una investigación echando mano de diversas fuentes: hemerográficas, comunicados de las organizaciones indígenas, de defensores de derechos humanos y organizaciones ecologistas, bases de datos especializadas, tesis y artículos académicos. Además, fue de utilidad revisar los protocolos de la Corte Interamericana de Derechos Humanos, la Declaración de las Naciones Unidas sobre derechos de los pueblos indígenas y revisar las normas y estándares internacionales existentes en materia de derechos indígenas. Las bases de datos que se emplearon para buscar y revisar información fueron: EJATLAS Environmental Justice Atlas, OCMAL Observatorio de Conflictos mineros en América Latina y Geo Comunes. Se consultaron sitios que muestran mapas de los diversos proyectos (minería, fracking, hidrocarburos, hidroeléctricas, principalmente) que están surgiendo en México, ejemplos de estos sitios son: CartoCrítica, Mapa de concesiones mineras en México de la Agencia Subversiones, Mapa general de conflictos socio-ambientales del Observatorio Socioambiental de la Unión de Científicos Comprometidos con la Sociedad y del Centro de Ciencias de la Complejidad de la UNAM.</p>
@@ -29,7 +29,7 @@ export default function actualizacion() {
             <button className="bg-naranjaSicetno text-white py-2 px-10 rounded-3xl">
               <Link to="/mapa">Ir al mapa interactivo</Link>
             </button>
-            <button className="bg-verdeSicetno text-white py-2 px-10 rounded-3xl">Ir a la base de datos</button>
+            <button className="bg-verdeSicetno text-white py-2 px-10 rounded-3xl"><a target="_blank" rel="noopener noreferrer" href="https://www.sicetno.org/ords/f?p=2000100:1::::::">Ir a la base de datos</a></button>
           </div>
         </section>
       </main>
