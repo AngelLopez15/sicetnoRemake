@@ -3,15 +3,16 @@ import Layout from "../layout/layout"
 
 const IndexPage = () => (
   <Layout>
-    <header className="bg-red-200 py-40 text-center">
-      <h1 className="text-white text-6xl ">SICETNO</h1>
-      <p>Es una plataforma de consulta en línea dirigida a los interesados en el estudio y desarrollo de la cultura política indígena. Fundada por la socióloga Natividad Gutiérrez Chong, investigadora del IIS, UNAM.</p>
-      <p>Proyecto PAPIIT-UNAM IN301219 Afectación de intereses étnicos y neoliberalismo Proyecto SEP-CONACYT 128183</p>
-      <button className="bg-verdeSicetno text-white py-2 px-10 rounded-3xl"><a target="_blank" rel="noopener noreferrer" href="https://www.sicetno.org/ords/f?p=2000100:1::::::">Ir a la Base de Datos</a></button>
+    <header className="bg-red-200 py-28 px-8 text-center bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 wallpaper-home">
+      <h1 className="text-white text-6xl font-extrabold mb-6">SICETNO</h1>
+      <p className="mb-6 text-white text-2xl">Es una plataforma de consulta en línea dirigida a los interesados en el estudio y desarrollo de la cultura política indígena. Fundada por la socióloga <span className="font-bold">Natividad Gutiérrez Chong, investigadora del IIS, UNAM.</span></p>
+      <p className="mb-6 text-white text-2xl font-bold">Proyecto PAPIIT-UNAM IN301219 Afectación de intereses étnicos y neoliberalismo</p>
+      <p className="mb-6 text-white text-2xl font-bold">Proyecto SEP-CONACYT 128183</p>
+      <button className="bg-moradoSicetno text-white py-2 px-10 rounded-3xl"><a target="_blank" rel="noopener noreferrer" href="https://www.sicetno.org/ords/f?p=2000100:1::::::">Ir a la Base de Datos</a></button>
     </header>
     <main className="container mx-auto px-10 text-justify leading-7">
       <section className="my-10">
-        <h2>Acerca de SICETNO</h2>
+        <h2 className="text-center text-blue-600 text-4xl font-bold mb-10">Acerca de SICETNO</h2>
         <p>Sistema de Consulta de Organizaciones Indígenas y Conflictos Étnicos en las Américas (SICETNO) es una plataforma digital desarrollada con herramientas innovadoras para vincular la investigación en ciencias sociales con la tecnología de la información sobre temas de democracia y derechos humanos en el continente. Sus objetivos son:</p>
         <p>Crear y desarrollar un sistema de consulta digital con información actualizada de las organizaciones de los pueblos indígenas y de los conflictos étnicos que ocurren en las Américas.</p>
         <p>La función de la plataforma es facilitar el acceso a la información y su socialización entre los diferentes actores sociales que involucren intereses étnicos, y de esta manera contribuir a que el trabajo desarrollado en las organizaciones logre ser visible en cuanto a sus planteamientos y propuestas con respecto a la autonomía, a la libre determinación, entre otros. La plataforma también muestra los tipos de conflictividad étnica en las Américas e identifica los daños y amenazas más frecuentes que ponen en riesgo a las poblaciones indígenas y a los territorios que habitan.</p>

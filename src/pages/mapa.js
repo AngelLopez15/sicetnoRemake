@@ -4,7 +4,7 @@ import Layout from '../layout/layout'
 export default function mapa() {
   return (
     <Layout>
-      <header className="bg-red-200 py-24 text-center">
+      <header className="bg-red-200 py-24 text-center wallpaper-mapa">
         <h1 className="text-white text-6xl">Mapa interactivo de conflictos</h1>
       </header>
       <main className="container mx-auto px-10 text-justify leading-7">

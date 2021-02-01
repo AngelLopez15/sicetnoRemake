@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import logoSicetno from '../images/sicetno250.png'
 
 export default function Navbar() {
 
@@ -27,8 +28,11 @@ export default function Navbar() {
   ]
 
   return (
-    <nav className="flex w-full py-6"> 
-      <ul className="flex justify-end w-full">
+    <nav className="flex justify-between w-full py-6 pl-4">
+      <Link to="/">
+        <img src={logoSicetno} alt="Logotipo sicetno" />
+      </Link>
+      <ul className="flex justify-end items-center w-full">
         {
           pages.map((item, index) => (
             <li key={index} className="px-4">

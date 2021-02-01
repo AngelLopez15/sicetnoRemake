@@ -6,8 +6,8 @@ module.exports = {
       colors: {
         'naranjaSicetno': '#F35920',
         'verdeSicetno': '#AFD532',
-        'moradoSicetno': '#5B1048'
-      }
+        'moradoSicetno': '#5B1048',
+      },
     },
   },
   variants: {

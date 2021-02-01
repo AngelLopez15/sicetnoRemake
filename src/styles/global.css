@@ -3,5 +3,22 @@
 @tailwind utilities;
 
 body {
-  background-color: rgba(224, 231, 255, 1);
+  /* background-color: rgba(224, 231, 255, 1); */
+  background-color: #f5faff;
+}
+
+.wallpaper-home {
+  background-image: url('../images/cvindex.jpg');
+  background-size: cover;  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.wallpaper-mapa {
+  background-image: url('../images/cvmap.jpg');
+  background-size: cover;  
+  background-attachment: fixed;
+  background-position: center -100px;
+  background-repeat: no-repeat;
 }
