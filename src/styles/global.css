@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 body {
-  /* background-color: rgba(224, 231, 255, 1); */
   background-color: #f5faff;
+  color: #001833;
 }
 
 .wallpaper-home {
@@ -22,3 +22,43 @@ body {
   background-position: center -100px;
   background-repeat: no-repeat;
 }
+
+.wallpaper-actualizacion {
+  background-image: url('../images/cvactualizacion.jpg');
+  background-size: cover;  
+  background-attachment: fixed;
+  background-position: center -100px;
+  background-repeat: no-repeat;
+}
+
+.wallpaper-integrantes {
+  background-image: url('../images/cvintegrantes.webp');
+  background-size: cover;  
+  background-attachment: fixed;
+  background-position: center -300px;
+  background-repeat: no-repeat;
+}
+
+.wallpaper-objetivo {
+  background-image: url('../images/cvobjetivo.webp');
+  background-size: cover;  
+  background-attachment: fixed;
+  background-position: center -300px;
+  background-repeat: no-repeat;
+}
+
+.wallpaper-publicaciones {
+  background-image: url('../images/cvpublicaciones.webp');
+  background-size: cover;  
+  background-attachment: fixed;
+  background-position: center -400px;
+  background-repeat: no-repeat;
+}
+
+/* .proyecto-sicetno {
+  background-image: url('../images/telarhome.webp');
+  background-size: cover;  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+} */

@@ -28,14 +28,14 @@ export default function Navbar() {
   ]
 
   return (
-    <nav className="flex justify-between w-full py-6 pl-4">
+    <nav className="flex justify-between w-full py-6 pl-4 bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 shadow-xl sticky top-0">
       <Link to="/">
         <img src={logoSicetno} alt="Logotipo sicetno" />
       </Link>
       <ul className="flex justify-end items-center w-full">
         {
           pages.map((item, index) => (
-            <li key={index} className="px-4">
+            <li key={index} className="px-4 font-semibold text-xl">
               <Link to={`/${item.link}`}>{item.title}</Link>
             </li>
           ))
