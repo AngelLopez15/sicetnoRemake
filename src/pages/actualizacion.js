@@ -26,10 +26,10 @@ export default function actualizacion() {
           <p className="mb-6">Lo anterior permite focalizar la identificación dentro de la malla de conflictos que surgen de modo incipiente o coyuntural asociado a acontecimientos políticos de otro ámbito que no sea el étnico.</p>
           <p className="mb-6">Asimismo, una vez identificado el conflicto, este incluye a una zona o región del conflicto, para fines de tipificación y sistematización, muchas de las veces fue tomada una localidad o cabecera municipal estratégica, que notificara el punto de referencia dentro del mapa de georreferencia.</p>
           <div className="mt-10 flex justify-evenly">
-            <button className="bg-naranjaSicetno text-white py-2 px-10 rounded-3xl">
+            <button className="bg-naranjaSicetno text-white py-2 px-10 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-moradoSicetno transform hover:-translate-y-1 hover:scale-110">
               <Link to="/mapa">Ir al mapa interactivo</Link>
             </button>
-            <button className="bg-verdeSicetno text-white py-2 px-10 rounded-3xl"><a target="_blank" rel="noopener noreferrer" href="https://www.sicetno.org/ords/f?p=2000100:1::::::">Ir a la base de datos</a></button>
+            <button className="bg-verdeSicetno text-white py-2 px-10 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-moradoSicetno transform hover:-translate-y-1 hover:scale-110"><a target="_blank" rel="noopener noreferrer" href="https://www.sicetno.org/ords/f?p=2000100:1::::::">Ir a la base de datos</a></button>
           </div>
         </section>
       </main>
