@@ -9,6 +9,7 @@ import {ReactComponent as IconJudgeHammer} from "../images/svg/gavel-solid.svg"
 import {ReactComponent as IconChart} from "../images/svg/chart-pie-solid.svg"
 import {ReactComponent as IconTree} from "../images/svg/tree-solid.svg"
 import Image from "../components/Image"
+import Video from "../components/Video"
 
 const IndexPage = () => (
   <Layout>
@@ -108,8 +109,8 @@ const IndexPage = () => (
           <div className="w-1/2">
             <p className="px-16 py-10">Las sociedades indígenas tienen su propia historia de movilización, de lucha y de protesta, por lo que están lejos de ser pasivas, indiferentes o apáticas, sin embargo el control autoritario hacia estos grupos se expresa con más contundencia. Además están mayoritariamente privadas o limitadas de un recurso esencial para el funcionamiento de la democracia: el acceso a la información y el control de sus medios de comunicación.</p>
           </div>
-          <div className="w-1/2">
-            VIDEO
+          <div className="w-1/2 flex justify-center">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/tdbOgPaIrj8?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
         </div>
       </section>
