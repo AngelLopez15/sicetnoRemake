@@ -1,4 +1,5 @@
 import React from 'react'
+import Mapa from '../components/Mapa'
 import Layout from '../layout/layout'
 
 export default function mapa() {
@@ -11,7 +12,7 @@ export default function mapa() {
         <section className="my-10">
           <h2 className="text-moradoSicetno text-4xl text-center mb-10">Conflictos</h2>
           <div>
-            MAPA DE MEXICO
+            <Mapa />
           </div>
         </section>
       </main>

@@ -52,7 +52,7 @@ export default function integrantes() {
   return (
     <Layout>
       <header className="bg-gray-200 py-24 text-center wallpaper-integrantes">
-        <h1 className="text-white text-6xl">Integrantes</h1>
+        <h1 className="text-moradoSicetno text-6xl">Integrantes</h1>
       </header>
       <main className="container mx-auto px-10 text-justify leading-7">
         <section className="my-10">

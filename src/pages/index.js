@@ -9,7 +9,6 @@ import {ReactComponent as IconJudgeHammer} from "../images/svg/gavel-solid.svg"
 import {ReactComponent as IconChart} from "../images/svg/chart-pie-solid.svg"
 import {ReactComponent as IconTree} from "../images/svg/tree-solid.svg"
 import Image from "../components/Image"
-import Video from "../components/Video"
 
 const IndexPage = () => (
   <Layout>
