@@ -42,7 +42,6 @@ export default function objetivo() {
     },
   ]
 
-
   return (
     <Layout>
       <header className="bg-gray-200 py-24 text-center wallpaper-objetivo">
@@ -50,7 +49,7 @@ export default function objetivo() {
       </header>
       <main className="container mx-auto px-10 text-justify leading-7">
         <section className="my-10">
-          <h2 className="text-moradoSicetno text-4xl text-center mb-10">SICETNO</h2>
+          <h2 className="text-moradoSicetno text-4xl font-bold text-center mb-10">SICETNO</h2>
           <p className="mb-6">SICETNO es una plataforma digital desarrollada con herramientas innovadoras para vincular la investigación en ciencias sociales con las tecnologías de la información sobre temas de democracia y derechos humanos en el continente.</p>
           <div>
             <div>
