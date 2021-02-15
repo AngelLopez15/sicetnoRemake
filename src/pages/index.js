@@ -8,7 +8,14 @@ import {ReactComponent as IconMapMarker} from "../images/svg/map-marker-alt-soli
 import {ReactComponent as IconJudgeHammer} from "../images/svg/gavel-solid.svg"
 import {ReactComponent as IconChart} from "../images/svg/chart-pie-solid.svg"
 import {ReactComponent as IconTree} from "../images/svg/tree-solid.svg"
+import frase1 from '../images/carrusel/frase1.webp'
+import frase2 from '../images/carrusel/frase2.webp'
+import frase3 from '../images/carrusel/frase3.webp'
+import frase4 from '../images/carrusel/frase4.webp'
+import frase5 from '../images/carrusel/frase5.webp'
+import frase6 from '../images/carrusel/frase6.webp'
 import Image from "../components/Image"
+import Carrusel from "../components/Carrusel"
 
 const IndexPage = () => (
   <Layout>
@@ -86,8 +93,6 @@ const IndexPage = () => (
           </div>
           <div className="w-1/2 m-auto">
             <Image fileName="telarhome.webp" alt="imagen con un acercamiento a los hijos montados en un telar"/>
-            {/* <Img fixed={data.file.childImageSharp.fixed} /> */}
-            {/* <img src={telarHome} className="rounded-2xl" alt="imagen con un acercamiento a los hijos montados en un telar" /> */}
           </div>
         </div>
       </section>
@@ -145,7 +150,18 @@ const IndexPage = () => (
       </section>
       <section className="mb-10">
         <h2 className="text-moradoSicetno text-4xl font-bold text-center mb-6">Recomendaciones</h2>
-        <p>AQUI VA EL CARRUSEL DE FRASES</p>
+        <div className="flex w-full justify-center" >
+          <div className="w-4/5">
+            <Carrusel 
+              frase1={frase1}
+              frase2={frase2}
+              frase3={frase3}
+              frase4={frase4}
+              frase5={frase5}
+              frase6={frase6}
+            />
+          </div>
+        </div>
       </section>
       <section className="mb-10">
         <h2 className="text-moradoSicetno text-4xl font-bold text-center mb-6">Manual técnico</h2>
