@@ -20,7 +20,7 @@ export default function Mapa() {
             />
           </MapContainer>
         :
-        null
+        <p>Cargando Mapa</p>
       }
     </>
   )

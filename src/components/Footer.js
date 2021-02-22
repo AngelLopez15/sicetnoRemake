@@ -4,7 +4,6 @@ import {ReactComponent as IconFb} from '../images/svg/facebook-f-brands.svg'
 import {ReactComponent as IconTw} from '../images/svg/twitter-brands.svg'
 import {ReactComponent as IconYt} from '../images/svg/youtube-brands.svg'
 import ImageLogos from './ImageLogos'
-// import {}
 
 export default function Footer() {
   
