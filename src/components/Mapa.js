@@ -19,12 +19,12 @@ import tapir from '../images/tapir2.png'
 //   popupAnchor: [-10, -30],
 // });
 
-const myIcon = new L.icon({
-  iconUrl: require('../images/tapir2.png'),
-  iconSize: [69,57],
-  iconAnchor: [69, 57],
-  popupAnchor: [-10, -30],
-});
+// const myIcon = new L.icon({
+//   iconUrl: require('../images/tapir2.png'),
+//   iconSize: [69,57],
+//   iconAnchor: [69, 57],
+//   popupAnchor: [-10, -30],
+// });
 
 
 const location = [23.380964227121666, -99.16353656125003]
@@ -48,7 +48,7 @@ export default function Mapa() {
             />
             {
               all.map((item, index) => (
-                <Marker key={index} position={item.location} icon={myIcon}>
+                <Marker key={index} position={item.location}>
                   <Popup>
                     <h3>{item.titulo}</h3>
                     <p>{item.texto}</p>
