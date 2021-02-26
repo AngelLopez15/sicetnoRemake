@@ -13,11 +13,19 @@ import tapir from '../images/tapir2.png'
 //   shadowUrl: require('leaflet/dist/images/marker-shadow.png'),
 // })
 
-const myIcon = L.icon({
-  iconUrl: tapir,
+// const myIcon = L.icon({
+//   iconUrl: tapir,
+//   iconSize: [69,57],
+//   popupAnchor: [-10, -30],
+// });
+
+const myIcon = new L.icon({
+  iconUrl: require('../images/tapir2.png'),
   iconSize: [69,57],
+  iconAnchor: [69, 57],
   popupAnchor: [-10, -30],
 });
+
 
 const location = [23.380964227121666, -99.16353656125003]
 const zoom = 5
