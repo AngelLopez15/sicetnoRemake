@@ -3,14 +3,21 @@ import "leaflet/dist/leaflet.css"
 import L from 'leaflet'
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 import all from '../data/all.json'
+import tapir from '../images/tapir2.png'
 
-delete L.Icon.Default.prototype._getIconUrl
+// delete L.Icon.Default.prototype._getIconUrl
 
-L.Icon.Default.mergeOptions({
-  iconRetinaUrl: require('leaflet/dist/images/marker-icon-2x.png'),
-  iconUrl: require('leaflet/dist/images/marker-icon.png'),
-  shadowUrl: require('leaflet/dist/images/marker-shadow.png'),
-})
+// L.Icon.Default.mergeOptions({
+//   iconRetinaUrl: require('leaflet/dist/images/marker-icon-2x.png'),
+//   iconUrl: require('leaflet/dist/images/marker-icon.png'),
+//   shadowUrl: require('leaflet/dist/images/marker-shadow.png'),
+// })
+
+const myIcon = L.icon({
+  iconUrl: tapir,
+  iconSize: [69,57],
+  popupAnchor: [-10, -30],
+});
 
 const location = [23.380964227121666, -99.16353656125003]
 const zoom = 5
@@ -33,7 +40,7 @@ export default function Mapa() {
             />
             {
               all.map((item, index) => (
-                <Marker key={index} position={item.location}>
+                <Marker key={index} position={item.location} icon={myIcon}>
                   <Popup>
                     <h3>{item.titulo}</h3>
                     <p>{item.texto}</p>
