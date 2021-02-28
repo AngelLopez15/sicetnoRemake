@@ -1,9 +1,10 @@
-import React from 'react'
+import React, { useState } from 'react'
 import Footer from '../components/Footer'
-import Mapa from '../components/Mapa'
 import Navbar from '../components/NavbarMap'
+import Mapa from '../components/Mapa'
 
 export default function mapa() {
+
   return (
     <>
       <Navbar />

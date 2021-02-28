@@ -1,0 +1,93 @@
+[
+  {
+    "location": [19.684890, -101.953571],
+    "titulo": "Purépechas de Cherán en defensa de su autonomía y territorio",
+    "texto": "Municipio o poblado: Cherán, Michoacán",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:237",
+    "nivel": "rojo"
+  },
+  {
+    "location": [19.975083, -97.699959],
+    "titulo": "Nahuas de Huitzilan en conflicto por despojo de territorio y abuso de poder",
+    "texto": "Municipio o poblado: Municipio de Huitzilan de Serdán, Sierra Norte de Puebla",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:226",
+    "nivel": "rojo"
+  },
+  {
+    "location": [19.416571, -100.066604],
+    "titulo": "Pueblos mazahuas en defensa de su derecho al agua",
+    "texto": "Municipio o poblado: Valle de Toluca, Estado de México",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:235",
+    "nivel": "rojo"
+  },
+  {
+    "location": [16.117692, -92.033315],
+    "titulo": "Demanda al derecho de reconocimiento constitucional para etnias de Chiapas",
+    "texto": "Municipio o poblado: La Trinitaria, Chiapas",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:214",
+    "nivel": "rojo"
+  },
+  {
+    "location": [32.625288, -115.450282],
+    "titulo": "Indígenas cucapá demandan su derecho a los recursos naturales",
+    "texto": "Municipio o poblado: Golfo de California, Baja California. Actualmente el pueblo indígena Cucapá se sitúa en los ejidos Cucapá Mestizo y el Mayor Cucapah, ubicados en el municipio de Mexicali. También se encuentran dispersos en otras localidades,colonias Mariana y Zacatecas, ejidos Saltillo  El Indiviso y Poza de Arvizu.",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:218",
+    "nivel": "amarillo"
+  },
+  {
+    "location": [27.915258, -107.061718],
+    "titulo": "Indígenas tarahumaras afectados por la sequía y hambruna",
+    "texto": "Municipio o poblado: Estado de Chihuahua, Sierra Tarahumara",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:219",
+    "nivel": "amarillo"
+  },
+  {
+    "location": [29.070097, -110.958095],
+    "titulo": "Despojo de tierras a indígenas yaquis",
+    "texto": "Municipio o poblado: Sonora",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:215",
+    "nivel": "amarillo"
+  },
+  {
+    "location": [16.965192, -99.095845],
+    "titulo": "Persecución y hostigamiento permanente en contra de la Organización del Pueblo Indígena Me'phaa (OPIM)",
+    "texto": "Municipio o poblado: Región Montaña del Estado de Guerrero. Municipio de Ayutla de los Libres.",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:229",
+    "nivel": "amarillo"
+  },
+  {
+    "location": [20.429751, -103.362768],
+    "titulo": "Pueblo wixárika de Tuapurie en contra del proyecto carretera estatal Amatitlán-Bolaños-Huejuquila en su territorio",
+    "texto": "Municipio o poblado: Santa Catarina Cuexcomatitlán, Jalisco",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:234",
+    "nivel": "amarillo"
+  },
+  {
+    "location": [31.672055, -116.515233],
+    "titulo": "Mixtecos migrantes piden tierras que les fueron despojadas",
+    "texto": "Municipio o poblado: Ensenada, Baja California",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:225",
+    "nivel": "amarillo"
+  },
+  {
+    "location": [17.127089, -96.799440],
+    "titulo": "Zapotecos de los Valles centrales de Oaxaca en contra del proyecto carretero Libramiento Sur",
+    "texto": "Municipio o poblado: Comunidades de los municipios: Soledad Etla, San Lorenzo Cacaotepec, San Felipe Tejalapam, Santa María Atzompa, San Pedro Ixtlahuaca, Santa Cruz Xoxoctlán, Cuilápam de Guerrero, Villa de Zaachila, Trinidad Zaachila, San Bartolo Coyotepec, San Sebastian Teitipac, Santa Cruz Papalutla, San Sebastián Abasolo, San Jerónimo Tlacochahuaya, San Juan Guelavia.",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:247",
+    "nivel": "amarillo"
+  },
+  {
+    "location": [16.819967, -98.733940],
+    "titulo": "Resistencia de comunidades de la montaña de Guerrero al  Proyecto Corazón de las Tinieblas",
+    "texto": "Municipio o poblado: Malinaltepec, Estado de Guerrero",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:241",
+    "nivel": "amarillo"
+  },
+  {
+    "location": [17.098258, -96.062529],
+    "titulo": "Mixes en contra del plagio de sus bordados tradicionales",
+    "texto": "Santa Teresa Tlahuitoltepec, Oaxaca",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:224",
+    "nivel": "verde"
+  }
+]

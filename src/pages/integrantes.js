@@ -138,10 +138,10 @@ export default function integrantes() {
       <main className="container mx-auto px-10 text-justify leading-7">
         <section className="my-10">
           <h2 className="text-moradoSicetno text-4xl font-bold text-center mb-10">Equipo de trabajo de SICETNO</h2>
-          <div className="flex w-full flex-wrap">
+          <div className="flex w-full flex-wrap justify-around mt-5">
             {
               equipoSociales.map((item, index) => (
-                <figure key={index} className="bg-red-100 rounded-xl p-8 mb-5 mx-2 w-96">
+                <figure key={index} className="bg-purple-200 rounded-xl p-8 mb-5 mx-2 w-96">
                   <img className="w-32 h-32 rounded-full mx-auto" src={item.foto} alt="Doctora Natividad" width="384" height="512" />
                   <div className="pt-6 text-center space-y-4">
                     {
@@ -171,10 +171,10 @@ export default function integrantes() {
         </section>
         <section className="mb-10">
           <h2 className="text-moradoSicetno text-4xl font-bold text-center mb-10">Consejo Asesor</h2>
-          <div className="flex w-full flex-wrap">
+          <div className="flex w-full flex-wrap justify-around mt-5">
             {
               asesores.map((item, index)=>(
-                <div key={index} className="bg-red-100 rounded-xl p-8 mb-5 mx-2 w-96 text-center">
+                <div key={index} className="bg-purple-200 rounded-xl p-8 mb-5 mx-2 w-96 text-center">
                   <h3 className="text-green-600 text-lg font-semibold">{item.asesor}</h3>
                   <p className="text-yellow-500 text-lg font-semibold">{item.institución}</p>
                 </div>

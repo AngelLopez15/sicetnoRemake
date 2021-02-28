@@ -108,7 +108,7 @@ export default function objetivo() {
         <section className="my-10">
           <h2 className="text-moradoSicetno text-4xl font-bold text-center mb-10">SICETNO</h2>
           <p className="mb-6">SICETNO es una plataforma digital desarrollada con herramientas innovadoras para vincular la investigación en ciencias sociales con las tecnologías de la información sobre temas de democracia y derechos humanos en el continente.</p>
-          <div className="flex flex-wrap">
+          <div className="flex flex-wrap justify-around mt-5">
             {
               atributos.map((item, index) => (
                   <div className={item.bg} key={index}>
@@ -122,7 +122,7 @@ export default function objetivo() {
         <section className="mb-10">
           <h2 className="text-moradoSicetno text-4xl font-bold text-center mb-10">La base cuenta con mapas de conflictos y de las organizaciones de México, Bolivia, Ecuador y Chile</h2>
           <div>
-            <p>INSERTAR MAPA</p>
+            <iframe src="https://s3.amazonaws.com/uploads.knightlab.com/storymapjs/d57a5094c853772687cf3784a12e0802/organizaciones/index.html" frameborder="0" width="100%" height="800"></iframe>
           </div>
         </section>
         <section className="mb-10">
