@@ -106,9 +106,13 @@ export default function Mapa() {
               marcadores.map((item, index) => (
                 <Marker key={index} position={item.location} >
                   <Popup>
-                    <h3>{item.titulo}</h3>
-                    <p>{item.texto}</p>
-                    <a href={item.url} target="_blank" rel="noopener noreferrer">Ver más detalles</a>
+                    <div className={item.nivel}>
+                      <h3 className="text-center font-bold">{item.titulo}</h3>
+                      <p className="text-center">{item.texto}</p>
+                      <div className="flex justify-center">
+                        <a href={item.url} target="_blank" rel="noopener noreferrer">Ver más detalles</a>
+                      </div>
+                    </div>
                   </Popup>
                 </Marker>
               ))

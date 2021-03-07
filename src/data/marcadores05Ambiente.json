@@ -4,6 +4,34 @@
     "titulo": "Los guardianes del río Ajajalpan luchan contra la construcción del proyecto hidroeléctrico Puebla 1",
     "texto": "Municipio o poblado: San Felipe Tepatlán, Tlapacoya y Ahuacatlán, Puebla",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:220",
-    "nivel": "rojo"
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [19.416571, -100.066604],
+    "titulo": "Pueblos mazahuas en defensa de su derecho al agua",
+    "texto": "Municipio o poblado: Valle de Toluca, Estado de México",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:235",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [16.874776, -99.642818],
+    "titulo": "CECOP en defensa del territorio frente al proyecto hidroeléctrico, La Parota",
+    "texto": "Municipio o poblado: Acapulco, Guerrero",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:201",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [17.445441, -93.393961],
+    "titulo": "Zoques desplazados por tapón del Grijalva en defensa de su territorio y en contra de proyecto minero",
+    "texto": "Municipio o poblado: Municipios de Yucatán y Tepactán, Chiapas.",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:248",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [17.599577, -99.175453],
+    "titulo": "Violencia y narcotráfico en la comunidad indígena de Chilapa, Guerrero",
+    "texto": "Municipio o poblado: Chilapa, Guerrero",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:246",
+    "nivel": "bg-red-400 rounded-lg p-4"
   }
 ]

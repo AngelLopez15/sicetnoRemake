@@ -4,349 +4,349 @@
     "titulo": "Purépechas de Cherán en defensa de su autonomía y territorio",
     "texto": "Municipio o poblado: Cherán, Michoacán",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:237",
-    "nivel": "rojo"
+    "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
     "location": [26.543136, -107.008976],
     "titulo": "Conflicto por recursos forestales en territorio tarahumara",
     "texto": "Municipio o poblado: Ejido Pino Gordo, Municipio Guadalupe y Calvo, Chihuahua",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:210",
-    "nivel": "rojo"
+    "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
     "location": [26.091596, -106.963380],
     "titulo": "Hostigamiento de narcotraficantes en la Sierra tarahumara, Chihuahua",
     "texto": "Municipio o poblado: Estado de Chihuahua, Sierra Tarahumara",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:217",
-    "nivel": "rojo"
+    "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
     "location": [17.186930, -97.961578],
     "titulo": "Triquis en contra de la militarización de su territorio",
     "texto": "Municipio o poblado: San Juan Copala, Oaxaca",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:245",
-    "nivel": "rojo" 
+    "nivel": "bg-red-400 rounded-lg p-4" 
   },
   {
     "location": [19.975083, -97.699959],
     "titulo": "Nahuas de Huitzilan en conflicto por despojo de territorio y abuso de poder",
     "texto": "Municipio o poblado: Municipio de Huitzilan de Serdán, Sierra Norte de Puebla",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:226",
-    "nivel": "rojo"
+    "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
     "location": [20.089919, -97.796479],
     "titulo": "Los guardianes del río Ajajalpan luchan contra la construcción del proyecto hidroeléctrico Puebla 1",
     "texto": "Municipio o poblado: San Felipe Tepatlán, Tlapacoya y Ahuacatlán; Puebla",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:220",
-    "nivel": "rojo" 
+    "nivel": "bg-red-400 rounded-lg p-4" 
   },
   {
     "location": [19.416571, -100.066604],
     "titulo": "Pueblos mazahuas en defensa de su derecho al agua",
     "texto": "Municipio o poblado: Valle de Toluca, Estado de México",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:235",
-    "nivel": "rojo" 
+    "nivel": "bg-red-400 rounded-lg p-4" 
   },
   {
     "location": [16.874776, -99.642818],
     "titulo": "CECOP en defensa del territorio frente al proyecto hidroeléctrico 'La Parota'",
     "texto": "Municipio o poblado: Acapulco, Guerrero",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:201",
-    "nivel": "rojo"
+    "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
     "location": [17.445441, -93.393961],
     "titulo": "Zoques desplazados por tapón del Grijalva en defensa de su territorio y en contra de proyecto minero",
     "texto": "Municipio o poblado: Municipios de Yucatán y Tepactán, Chiapas.",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:248",
-    "nivel": "rojo"
+    "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
     "location": [16.117692, -92.033315],
     "titulo": "Demanda al derecho de reconocimiento constitucional para etnias de Chiapas",
     "texto": "Municipio o poblado: La Trinitaria, Chiapas",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:214",
-    "nivel": "rojo"
+    "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
     "location": [18.341334, -97.024782],
     "titulo": "Proyecto hidroeléctrico coyolapa-atlzalán",
     "texto": "Municipio o poblado: San Pablo Zoquitlán, Coyomeapan y Tlacotepec",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:232",
-    "nivel": "rojo"
+    "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
     "location": [17.599577, -99.175453],
     "titulo": "Violencia y narcotráfico en la comunidad indígena de Chilapa, Guerrero",
     "texto": "Municipio o poblado: Chilapa, Guerrero",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:246",
-    "nivel": "rojo"
+    "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
     "location": [25.960083, -106.909424],
     "titulo": "Tarahumaras y tepehuanes en contra de siembra de transgénicos",
     "texto": "Municipio o poblado: Urique, Guadalupe y Calvo, Maguarichi y Carichi Chihuahua",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:224",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [16.465617, -95.020460],
     "titulo": "Defensa de la tierra tras la construcción del parque eólico en Juchitán",
     "texto": "Municipio o poblado: Juchitán de Zaragoza, Oaxaca",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:212",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [21.331973, -97.775276],
     "titulo": "Defensa del Río Blanco: Oposición a la Hidroeléctrica Naranjal",
     "texto": "Amatlan, Texhuacan, Mixtla, Yanga, Fortin; Veracruz",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:213",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [32.625288, -115.450282],
     "titulo": "Indígenas cucapá demandan su derecho a los recursos naturales",
     "texto": "Municipio o poblado: Golfo de California, Baja California. Actualmente el pueblo indígena Cucapá se sitúa en los ejidos Cucapá Mestizo y el Mayor Cucapah, ubicados en el municipio de Mexicali. También se encuentran dispersos en otras localidades,colonias Mariana y Zacatecas, ejidos Saltillo  El Indiviso y Poza de Arvizu.",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:218",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [16.560557, -96.732525],
     "titulo": "Pueblos zapotecos de Ejutla y Ocotlán en defensa del territorio frente a mineras",
     "texto": "Municipio o poblado: La región de los Valles Centrales de Oaxaca, en los municipios de San José del Progreso, Magdalena Ocotlán, Ejutla de Crespo, San Martín de los Cansecos y San Pedro Mártir.",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:236",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [17.243734, -98.669581],
     "titulo": "Comunidades de la montaña de Guerrero en rechazo de la minería en sus territorios",
     "texto": "Municipio o poblado: Territorio Comunitario en la Montaña de Guerrero, principalmente en los municipios de Malinaltepec, Zapotitlán Tablas, Tlacoapa, San Luis Acatlán, Acatepec e Iliatenco.",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:203",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [27.915258, -107.061718],
     "titulo": "Indígenas tarahumaras afectados por la sequía y hambruna",
     "texto": "Municipio o poblado: Estado de Chihuahua, Sierra Tarahumara",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:219",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [29.070097, -110.958095],
     "titulo": "Despojo de tierras a indígenas yaquis",
     "texto": "Municipio o poblado: Sonora",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:215",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [16.965192, -99.095845],
     "titulo": "Persecución y hostigamiento permanente en contra de la Organización del Pueblo Indígena Me'phaa (OPIM)",
     "texto": "Municipio o poblado: Región Montaña del Estado de Guerrero. Municipio de Ayutla de los Libres.",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:229",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [20.429751, -103.362768],
     "titulo": "Pueblo wixárika de Tuapurie en contra del proyecto carretera estatal Amatitlán-Bolaños-Huejuquila en su territorio",
     "texto": "Municipio o poblado: Santa Catarina Cuexcomatitlán, Jalisco",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:234",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [18.794881, -99.273953],
     "titulo": "Comunidades campesinas en lucha contra empresa minera por la protección de recursos culturales y naturales",
     "texto": "Municipio o poblado: La región cercana a la zona arqueológica de Xochicalco y al Cerro Jumil: las localidades de San Agustín Tetlama (Temixco), Alpuyeca (Xochitepec) y Xochicalco (Miacatlán) en el Estado de Morelos",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:202",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [19.364515, -103.823805],
     "titulo": "Conflicto interétnico por el control del Balneario Ojo de Agua",
     "texto": "Municipio o poblado: Zacualpan,Comala, Colima",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:207",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [31.672055, -116.515233],
     "titulo": "Mixtecos migrantes piden tierras que les fueron despojadas",
     "texto": "Municipio o poblado: Ensenada, Baja California",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:225",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [16.663718, -97.534592],
     "titulo": "Lucha contra la construcción de la presa hidroeléctrica Paso de la Reina",
     "texto": "Municipio o poblado: Río Verde en la costa de Oaxaca",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:221",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [15.323132, -92.658082],
     "titulo": "Resistencia a las Minas de la Biosfera del Triunfo",
     "texto": "Municipio o poblado: Acacoyagua y Escuintla, Chiapas",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:239",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [17.127089, -96.799440],
     "titulo": "Zapotecos de los Valles centrales de Oaxaca en contra del proyecto carretero Libramiento Sur",
     "texto": "Municipio o poblado: Comunidades de los municipios: Soledad Etla, San Lorenzo Cacaotepec, San Felipe Tejalapam, Santa María Atzompa, San Pedro Ixtlahuaca, Santa Cruz Xoxoctlán, Cuilápam de Guerrero, Villa de Zaachila, Trinidad Zaachila, San Bartolo Coyotepec, San Sebastian Teitipac, Santa Cruz Papalutla, San Sebastián Abasolo, San Jerónimo Tlacochahuaya, San Juan Guelavia.",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:247",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [16.560613, -95.096831],
     "titulo": "Oposición a  ampliación minera en Ixtepec, Oaxaca",
     "texto": "Municipio o poblado: Ixtepec, Oaxaca",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:227",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [16.787437, -96.668070],
     "titulo": "Comunidades oaxaqueñas por el cuidado y defensa del agua",
     "texto": "Municipio o poblado: Ocotlán y Zimatlán, Oaxaca",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:205",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [16.908245, -92.092519],
     "titulo": "Restitución de tierras a comunidad de la Selva Lacandona",
     "texto": "Municipio o poblado: Ocosingo, Chiapas",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:242",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [15.368846, -92.245654],
     "titulo": "Rechazo a mina de oro del ejido de Carrizal",
     "texto": "Motozintla, Chiapas",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:238",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [19.375265, -99.443796],
     "titulo": "Comunidades otomíes afectadas por proyecto carretero",
     "texto": "Municipio o poblado: Xochicuautla, Estado de México",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:206",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [19.853499, -97.495566],
     "titulo": "Conflicto Minero. Proyecto El Aretón: destrucción y saqueo ambiental en Tlatlauquitepec",
     "texto": "Municipio o poblado: Tlatlauquitepec, Puebla",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:208",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [18.846821, -97.053572],
     "titulo": "Resistencia contra el proyecto periférico Córdoba-Orizaba",
     "texto": "Municipio o poblado: Orizaba, Córdoba, Veracruz",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:240",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [20.485294, -89.714283],
     "titulo": "Proyecto de energía fotovoltaica en Muna, Yucatán",
     "texto": "Municipio o poblado: Localidades de San José Tipcéh, Muna, Yucatán.",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:230",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [16.819967, -98.733940],
     "titulo": "Resistencia de comunidades de la montaña de Guerrero al  Proyecto Corazón de las Tinieblas",
     "texto": "Municipio o poblado: Malinaltepec, Estado de Guerrero",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:241",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [20.017779, -97.522217],
     "titulo": "Oposición a la hidroeléctrica Cuamono en Cuetzalan",
     "texto": "Municipio o poblado: Cuetzalan, Puebla",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:228",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [15.739022, -96.788839],
     "titulo": "Disputa comunal en la costa de Oaxaca",
     "texto": "Municipio o poblado: Santa Maria Tonameca, Tilzapote",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:216",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [20.445927, -97.335327],
     "titulo": "Proyecto de fracking en Totonacapan",
     "texto": "Municipio o poblado: Totonacapan, Veracruz",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:231",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [19.624007, -97.816412],
     "titulo": "Proyecto Tuligtic en Puebla",
     "texto": "Municipio o poblado: Ixtacamaxtitlan, Puebla",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:233",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [19.363131, -103.823073],
     "titulo": "Lucha del pueblo indígena de Zacualpan contra la instalación de El Porvenir una empresa minera",
     "texto": "Municipio o poblado: Zacualpan, Comala, Colima",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:222",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [22.217119, -105.007342],
     "titulo": "Consejos Indígena e Intercomunitario para el Desarrollo de la Cuenca del Río San Pedro Mezquital vs. CFE",
     "texto": "Territorio, cuenca del río Pedro",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:211",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [18.767929, -98.173278],
     "titulo": "Minera Autlán: amenaza con explotar Área Natural Protegida Sierra del Tentzo",
     "texto": "Municipio o poblado: Municipio de Huehuetlán El Grande, Estado de Puebla",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:223",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [15.340349, -92.679758],
     "titulo": "Comunidades del Soconusco (Chiapas) Se movilizan contra la actividad minera",
     "texto": "Municipio o poblado: Municipios de Acacoyagua, Escuintla",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:204",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [19.808864, -97.808864],
     "titulo": "Conflicto Minero: Tetela de Ocampo se opone a minera Frisco de C. Slim",
     "texto": "Municipio o poblado: Tetela de Ocampo, Puebla",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:242",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [20.738559, -89.286002],
     "titulo": "Rechazo a la granja porcícola en Homún",
     "texto": "Municipio o poblado: Homún, Yucatán",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:249",
-    "nivel": "amarillo"
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [18.619600, -97.039214],
     "titulo": "Afectaciones generadas  tras la construcción de la hidroeléctrica  en Zongolica",
     "texto": "Municipio o poblado: Zongolica, Veracruz",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:200",
-    "nivel": "verde"
+    "nivel": "bg-green-400 rounded-lg p-4"
   },
   {
     "location": [17.098258, -96.062529],
     "titulo": "Mixes en contra del plagio de sus bordados tradicionales",
     "texto": "Municipio o poblado: Santa Teresa Tlahuitoltepec, Oaxaca",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:224",
-    "nivel": "verde"
+    "nivel": "bg-green-400 rounded-lg p-4"
   },
   {
     "location": [20.018777, -97.525193],
     "titulo": "Subestación eléctrica de la CFE en Cuetzalan",
     "texto": "Cuetzalan, Puebla",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:243",
-    "nivel": "verde"
+    "nivel": "bg-green-400 rounded-lg p-4"
   }
 ]

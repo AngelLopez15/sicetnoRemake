@@ -29,9 +29,15 @@ export default function Navbar() {
 
   return (
     <nav className="z-50 flex justify-between w-full py-6 pl-4 bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 shadow-xl sticky top-0">
-      <Link to="/">
-        <img src={logoSicetno} alt="Logotipo sicetno" />
-      </Link>
+      <div>
+        <Link to="/">
+          <img src={logoSicetno} alt="Logotipo sicetno" />
+        </Link>
+        {/* <button class="hamburger block sm:hidden focus:outline-none">
+          <span class="hamburger__top-bun"></span>
+          <span class="hamburger__bottom-bun"></span>
+        </button> */}
+      </div>
       <ul className="flex justify-end items-center w-full">
         {
           pages.map((item, index) => (

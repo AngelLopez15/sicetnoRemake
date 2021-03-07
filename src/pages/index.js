@@ -91,7 +91,7 @@ const IndexPage = () => (
           <div className="w-1/2">
             <p className="px-16 py-10">El Sistema de Consulta de Organizaciones Indígenas y Conflictos Étnicos en las Américas. Surge para contribuir a subsanar la profunda y enorme desinformación que prevalece sobre las formas de participación política de los pueblos indígenas, tomando en consideración la abundancia de organizaciones, perfiles ideológicos, formas de liderazgo, tipos de demandas y capacidad de formar alianzas, es fundamental construir herramientas que contribuyan al estudio de los pueblos indígenas y el Estado. Otra razón, que motivó su construcción es la de generar estudios confiables sobre la cultura política indígena, desterrando o desmintiendo algunos mitos que han confundido la forma de hacer política de los pueblos indígenas.</p>
           </div>
-          <div className="w-1/2 m-auto">
+          <div className="w-1/2 m-auto overflow-hidden rounded-2xl">
             <Image fileName="telarhome.webp" alt="imagen con un acercamiento a los hijos montados en un telar"/>
           </div>
         </div>
@@ -99,7 +99,7 @@ const IndexPage = () => (
       <section className="mb-10">
         <h2 className="text-moradoSicetno text-4xl font-bold text-center mb-6">Desarrollo</h2>
         <div className="flex w-full">
-          <div className="w-1/2">
+          <div className="w-1/2 m-auto overflow-hidden rounded-2xl">
             <Image fileName="alebrijes.jpg" alt="imagen de una gran variadad de alebrijes de Oaxaca"/>
           </div>
           <div className="w-1/2 m-auto">
@@ -143,7 +143,7 @@ const IndexPage = () => (
           <div className="w-1/2">
             <p className="px-16 py-10">Ambas bases de datos cualitativos son insumos de varias investigaciones sobre la cultura política indígena y la conflictividad étnica, realizadas en el Instituto de Investigaciones Sociales de la Universidad Nacional Autónoma de México, bajo la coordinación de la doctora Natividad Gutiérrez Chong, y recibieron financiamiento de la Delegación de la Comisión Europea en México, del Programa PAPPIT- DGAPA UNAM y del Consejo Nacional de Ciencia y Tecnología (SEP-CONACYT 128183). Con estos financiamientos ha sido posible llevar a cabo un extenso trabajo de campo que incluyó a México, Bolivia, Ecuador y Chile y también permitió desarrollar la parte tecnológica de esta investigación cualitativa.</p>
           </div>
-          <div className="w-1/2">
+          <div className="w-1/2 m-auto overflow-hidden rounded-2xl">
             <Image fileName="hilos.webp" alt="Imagen de muchas madejas de hilos de colores" />
           </div>
         </div>
@@ -166,7 +166,7 @@ const IndexPage = () => (
       <section className="mb-10">
         <h2 className="text-moradoSicetno text-4xl font-bold text-center mb-6">Manual técnico</h2>
         <div className="flex w-full">
-          <div className="w-1/2">
+          <div className="w-1/2 m-auto overflow-hidden rounded-2xl">
             <Image fileName="lago.jpg" alt="Imagen de muchas madejas de hilos de colores" />
           </div>
           <div className="w-1/2">

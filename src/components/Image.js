@@ -29,7 +29,7 @@ export default function Image(props) {
           return image.node.relativePath.includes(fileName)
         })
         if(!image) return null
-        return <Img className="rounded-2xl" alt={alt} fluid={image.node.childImageSharp.fluid} />
+        return <Img className="rounded-2xl transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110" alt={alt} fluid={image.node.childImageSharp.fluid} />
       }}
     />
   )

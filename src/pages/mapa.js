@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import Footer from '../components/Footer'
 import Navbar from '../components/NavbarMap'
 import Mapa from '../components/Mapa'
@@ -16,6 +16,25 @@ export default function mapa() {
           <h2 className="text-moradoSicetno text-4xl font-bold text-center mb-10">Conflictos</h2>
           <div>
             <Mapa />
+          </div>
+        </section>
+        <section className="m-12">
+          <h2 className="text-moradoSicetno text-4xl font-bold text-center mb-10">Semáforo de conflictos</h2>
+          <div>
+            <ul className="flex justify-around">
+              <li className="flex w-96 items-center">
+                <div className="bg-green-400 rounded-full w-5 h-5 p-5 m-4"></div>
+                <p className="font-semibold">Identifica los conflictos que tienen algún tipo de resolución, y principalmente se llegó a esta sin violencia.</p>
+              </li>
+              <li className="flex w-96 items-center">
+                <div className="bg-yellow-400 rounded-full w-5 h-5 p-5 m-4"></div>
+                <p className="font-semibold">Identifica los conflictos que están vigentes o no se ha llegado a ninguna resolución, pero que presentan algún tipo de represión sin asesinatos.</p> 
+              </li>
+              <li className="flex w-96 items-center">
+                <div className="bg-red-400 rounded-full w-5 h-5 p-5 mr-4"></div>
+                <p className="font-semibold">Identifica los conflictos donde hubo asesinatos, considerada esta como el más alto nivel de violencia.</p>
+              </li>
+            </ul>
           </div>
         </section>
       </main>
