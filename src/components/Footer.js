@@ -12,8 +12,8 @@ export default function Footer() {
 
   return (
     <footer className="w-full py-6 bg-yellow-200">
-      <div className="w-full flex text-center">
-        <div className="w-4/12">
+      <div className="w-full flex text-center flex-wrap">
+        <div className="w-4/12 md:w-full md:mb-10">
           <h2 className="text-blue-600 text-3xl font-bold mb-6">Contáctanos</h2>
           <p className="text-green-900 text-2xl font-bold mb-6">Instituto de Investigaciones Sociales</p>
           <p className="mb-6">Circuito Mario de la Cueva s/n Ciudad de la Investigación en Humanidades, Ciudad Universitaria, C. P. 04510,Coyoacán, México, D. F.</p>
@@ -22,13 +22,13 @@ export default function Footer() {
             <li>proyectosicetno@gmail.com</li>
           </ul>
         </div>
-        <div className="w-4/12">
+        <div className="w-4/12 md:w-full md:mb-10">
           <Timeline
             dataSource={{ sourceType: "profile", screenName: "Sicetno" }}
             options={{ width: "400", height: "300" }}
           />
         </div>
-        <div className="w-4/12">
+        <div className="w-4/12 md:w-full">
           <h2 className="text-blue-600 text-3xl font-bold mb-6">Síguenos</h2>
           <ul className="flex justify-evenly">
             <li>
