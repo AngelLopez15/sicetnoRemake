@@ -8,7 +8,7 @@ export default function actualizacion() {
       <header className="bg-gray-200 py-24 text-center wallpaper-actualizacion">
         <h1 className="text-white text-6xl">Sobre la actualización</h1>
       </header>
-      <main className="container mx-auto px-10 text-justify leading-7">
+      <main className="container mx-auto px-10 md:px-5 text-justify leading-7">
         <section className="my-10">
           <h2 className="text-moradoSicetno text-4xl font-bold text-center mb-10">Nota metodológica</h2>
           <p className="mb-6">En el tercer trimestre del año 2018 se comenzó a trabajar en la actualización de la base de datos del Sistema de Consulta de Organizaciones Indígenas y Conflictos Étnicos en las Américas, específicamente en lo correspondiente a los conflictos étnicos en México.</p>
@@ -25,8 +25,8 @@ export default function actualizacion() {
           </ol>
           <p className="mb-6">Lo anterior permite focalizar la identificación dentro de la malla de conflictos que surgen de modo incipiente o coyuntural asociado a acontecimientos políticos de otro ámbito que no sea el étnico.</p>
           <p className="mb-6">Asimismo, una vez identificado el conflicto, este incluye a una zona o región del conflicto, para fines de tipificación y sistematización, muchas de las veces fue tomada una localidad o cabecera municipal estratégica, que notificara el punto de referencia dentro del mapa de georreferencia.</p>
-          <div className="mt-10 flex justify-evenly">
-            <button className="bg-naranjaSicetno text-white py-2 px-10 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-moradoSicetno transform hover:-translate-y-1 hover:scale-110">
+          <div className="mt-10 flex justify-evenly md:flex md:flex-col">
+            <button className="bg-naranjaSicetno text-white py-2 px-10 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-moradoSicetno transform hover:-translate-y-1 hover:scale-110 md:mb-10">
               <Link to="/mapa">Ir al mapa interactivo</Link>
             </button>
             <button className="bg-verdeSicetno text-white py-2 px-10 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-moradoSicetno transform hover:-translate-y-1 hover:scale-110"><a target="_blank" rel="noopener noreferrer" href="https://www.sicetno.org/ords/f?p=2000100:1::::::">Ir a la base de datos</a></button>

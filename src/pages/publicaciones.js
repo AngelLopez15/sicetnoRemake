@@ -40,7 +40,7 @@ export default function publicaciones() {
       <header className="bg-gray-200 py-24 text-center wallpaper-publicaciones">
         <h1 className="text-white text-6xl">Publicaciones</h1>
       </header>
-      <main className="container mx-auto px-10 text-justify leading-7">
+      <main className="container mx-auto px-10 md:px-5 text-justify leading-7">
         <section className="my-10">
           <h2 className="text-moradoSicetno text-4xl font-bold text-center mb-10">Con la base de datos CETNA. Conflictos étnicos y nacionalismos en las Américas.</h2>
           <p className="mb-6">Se escribieron y coordinaron dos libros que exponen los resultados sobre la conflictividad étnica de América Latina. Los conflictos étnicos son debido a afectación de intereses en los territorios y no a proyectos de secesión.</p>

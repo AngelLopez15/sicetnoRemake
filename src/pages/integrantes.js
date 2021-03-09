@@ -169,7 +169,7 @@ export default function integrantes() {
       <header className="bg-gray-200 py-24 text-center wallpaper-integrantes">
         <h1 className="text-moradoSicetno text-6xl">Integrantes</h1>
       </header>
-      <main className="container mx-auto px-10 text-justify leading-7">
+      <main className="container mx-auto px-10 text-justify leading-7 md:px-5">
         <section className="my-10">
           <h2 className="text-moradoSicetno text-4xl font-bold text-center mb-10">Equipo de trabajo de SICETNO</h2>
           <div className="flex w-full flex-wrap justify-around mt-5">

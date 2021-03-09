@@ -45,7 +45,7 @@ export default function natividad() {
     <Layout>
       <header>
         <h1 className="text-moradoSicetno text-6xl font-bold text-center my-10">Natividad Gutiérrez Chong</h1>
-        <div className="container mx-auto px-10 text-justify leading-7">
+        <div className="container mx-auto px-10 md:px-5 text-justify leading-7">
           <p className="mb-6">
             Maestra y doctora en Sociología por la London School of Economics and Political Science, Universidad de Londres. Profesora e investigadora titular del Instituto de Investigaciones Sociales de la Universidad Nacional Autónoma de México. Ha coordinado desde 1983 más de veinte proyectos de investigación sobre nacionalismos y etnicidades en la República Popular China, México, Guatemala, Reino Unido, Bolivia y Ecuador. Es autora de numerosas publicaciones sobre conflictos étnicos, nacionalismos y multiculturalismo. Imparte docencia en la Maestría en Desarrollo Regional del Instituto Dr. José María Luis Mora; en el Instituto de Investigaciones Antropológicas y la Facultad de Filosofía y Letras así como en la Facultad de Ciencias Políticas y Sociales, UNAM.
           </p>
@@ -57,12 +57,12 @@ export default function natividad() {
       <main className="container mx-auto px-10 text-justify leading-7">
         <section className="my-10">
           <h2 className="text-moradoSicetno text-4xl font-bold text-center my-10">Líneas de Investigacion</h2>
-          <div className="flex justify-around">
-            <div>
+          <div className="flex flex-wrap justify-around">
+            <div className="md:w-full md:mb-5">
               <p>Foto Natividad</p>
               <p>Boton del CV</p>
             </div>
-            <div>
+            <div className="md:w-full">
               <ul>
                 {
                   lineas.map((item, index) => (
