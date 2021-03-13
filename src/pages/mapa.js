@@ -8,7 +8,7 @@ export default function mapa() {
   return (
     <>
       <Navbar />
-      <header className="bg-gray-200 py-24 text-center wallpaper-mapa">
+      <header className="bg-gray-200 py-24 text-center wallpaper-mapa md:pt-32">
         <h1 className="text-white text-6xl">Mapa interactivo de conflictos</h1>
       </header>
       <main className="container mx-auto px-10 text-justify leading-7 md:px-2">

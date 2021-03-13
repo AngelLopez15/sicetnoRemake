@@ -1,5 +1,6 @@
 import React from 'react'
 import Layout from '../layout/layout'
+import Image from "../components/Image"
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
 
@@ -43,7 +44,7 @@ export default function natividad() {
 
   return (
     <Layout>
-      <header>
+      <header className="md:pt-32">
         <h1 className="text-moradoSicetno text-6xl font-bold text-center my-10">Natividad Gutiérrez Chong</h1>
         <div className="container mx-auto px-10 md:px-5 text-justify leading-7">
           <p className="mb-6">
@@ -58,15 +59,23 @@ export default function natividad() {
         <section className="my-10">
           <h2 className="text-moradoSicetno text-4xl font-bold text-center my-10">Líneas de Investigacion</h2>
           <div className="flex flex-wrap justify-around">
-            <div className="md:w-full md:mb-5">
-              <p>Foto Natividad</p>
-              <p>Boton del CV</p>
+            <div className="md:w-full md:mb-5 w-1/2">
+              <div className="px-5">
+                <div className="overflow-hidden rounded-2xl">
+                  <Image fileName="natividad2.jpg" alt="Imagen de muchas madejas de hilos de colores" />
+                </div>
+                <div className="my-5 flex justify-center">
+                  <button className="bg-naranjaSicetno text-white py-2 px-10 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-moradoSicetno transform hover:-translate-y-1 hover:scale-110 md:mb-10">
+                    Curriculum Vitae
+                  </button>
+                </div>
+              </div>
             </div>
-            <div className="md:w-full">
-              <ul>
+            <div className="md:w-full w-1/2 flex justify-center items-center">
+              <ul className="list-disc">
                 {
                   lineas.map((item, index) => (
-                    <li key={index}>
+                    <li className="font-black text-3xl text-moradoSicetno my-5" key={index}>
                       {item.text}
                     </li>
                   ))

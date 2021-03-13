@@ -37,7 +37,7 @@ export default function publicaciones() {
 
   return (
     <Layout>
-      <header className="bg-gray-200 py-24 text-center wallpaper-publicaciones">
+      <header className="bg-gray-200 py-24 text-center wallpaper-publicaciones md:pt-32">
         <h1 className="text-white text-6xl">Publicaciones</h1>
       </header>
       <main className="container mx-auto px-10 md:px-5 text-justify leading-7">

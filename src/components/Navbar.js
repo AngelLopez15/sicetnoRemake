@@ -30,28 +30,25 @@ export default function Navbar() {
   const [menu, setMenu] = useState(false)
 
   const desplegarMenu = () => {
-    console.log('Desplegar menu')
     setMenu(!menu)
   }
 
   return (
-    <nav className="z-50 flex justify-between w-full py-6 pl-4 md:flex md:flex-col bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 shadow-xl sticky top-0">
+    <nav className="md:absolute z-50 flex justify-between w-full py-6 pl-4 md:flex md:flex-col bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 shadow-xl sticky top-0">
       <div className="md:flex md:w-full md:justify-between md:px-4">
         <Link to="/">
           <img src={logoSicetno} alt="Logotipo sicetno" />
         </Link>
         <button class="md:block hidden" onClick={desplegarMenu}>
           BOTON
-          {/* <span class="hamburger__top-bun"></span>
-          <span class="hamburger__bottom-bun"></span> */}
         </button>
       </div>
-      <div className={menu ? "md:hidden" : "md:block" }>
+      <div className={menu ? "md:block" : "md:hidden"}>
         <ul className="flex justify-end items-center w-full md:flex md:flex-col md:my-5">
           {
             pages.map((item, index) => (
               <li key={index} className="px-4 font-semibold text-xl md:py-4">
-                <Link to={`/${item.link}`}>{item.title}</Link>
+                <Link to={`/${item.link}`} onClick={desplegarMenu}>{item.title}</Link>
               </li>
             ))
           }

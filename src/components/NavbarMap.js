@@ -35,18 +35,16 @@ export default function Navbar() {
   }
 
   return (
-    <nav className="z-50 flex justify-between w-full py-6 pl-4 md:flex md:flex-col bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 shadow-xl">
+    <nav className="md:absolute z-50 flex justify-between w-full py-6 pl-4 md:flex md:flex-col bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 shadow-xl">
       <div className="md:flex md:w-full md:justify-between md:px-4">
         <Link to="/">
           <img src={logoSicetno} alt="Logotipo sicetno" />
         </Link>
         <button class="md:block hidden" onClick={desplegarMenu}>
           BOTON
-          {/* <span class="hamburger__top-bun"></span>
-          <span class="hamburger__bottom-bun"></span> */}
         </button>
       </div>
-      <div className={menu ? "md:hidden" : "md:block" }>
+      <div className={menu ? "md:block" : "md:hidden" }>
         <ul className="flex justify-end items-center w-full md:flex md:flex-col md:my-5">
           {
             pages.map((item, index) => (

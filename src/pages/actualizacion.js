@@ -5,7 +5,7 @@ import Layout from '../layout/layout'
 export default function actualizacion() {
   return (
     <Layout>
-      <header className="bg-gray-200 py-24 text-center wallpaper-actualizacion">
+      <header className="bg-gray-200 py-24 text-center wallpaper-actualizacion md:pt-32">
         <h1 className="text-white text-6xl">Sobre la actualización</h1>
       </header>
       <main className="container mx-auto px-10 md:px-5 text-justify leading-7">

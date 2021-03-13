@@ -19,7 +19,7 @@ import Carrusel from "../components/Carrusel"
 
 const IndexPage = () => (
   <Layout>
-    <header className="bg-gray-200 py-28 px-8 text-center bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 wallpaper-home">
+    <header className="bg-gray-200 py-28 px-8 text-center bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 wallpaper-home md:pt-32">
       <h1 className="text-white text-6xl font-extrabold mb-6">SICETNO</h1>
       <p className="mb-6 text-white text-2xl">Es una plataforma de consulta en línea dirigida a los interesados en el estudio y desarrollo de la cultura política indígena. Fundada por la socióloga <span className="font-bold">Natividad Gutiérrez Chong, investigadora del IIS, UNAM.</span></p>
       <p className="mb-6 text-white text-2xl font-bold">Proyecto PAPIIT-UNAM IN301219 Afectación de intereses étnicos y neoliberalismo</p>
