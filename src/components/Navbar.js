@@ -34,7 +34,7 @@ export default function Navbar() {
   }
 
   return (
-    <nav className="md:absolute z-50 flex justify-between w-full py-6 pl-4 md:flex md:flex-col bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 shadow-xl sticky top-0">
+    <nav className="z-50 flex justify-between w-full py-6 pl-4 md:flex md:flex-col bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 shadow-xl sticky top-0">
       <div className="md:flex md:w-full md:justify-between md:px-4">
         <Link to="/">
           <img src={logoSicetno} alt="Logotipo sicetno" />
