@@ -1,0 +1,570 @@
+[
+  {
+    "location": [14.454318, -88.095179],
+    "titulo": "Pueblo Lenca logra Suspensión de Proyecto Hidroeléctrico Agua Zarca.",
+    "texto": "Honduras",
+    "region": "Centroamérica(2)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:252",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [15.305312, -89.224635],
+    "titulo": "Acusan Mayas Q'eqchi Desastre Ecológico y presencia militar en Izabal.",
+    "texto": "Guatemala",
+    "region": "Centroamérica(2)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:294",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [14.46112, -90.231477],
+    "titulo": "Resistencia Pacífica La Puya contra Proyecto Minero el Tambor.",
+    "texto": "Guatemala",
+    "region": "Centroamérica(2)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:295",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [8.503126, -80.384715],
+    "titulo": "Comarca Ngäbe Buglé se niega a Proyecto Cobre Panamá.",
+    "texto": "Panamá",
+    "region": "Centroamérica(2)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:256",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-38.515042, -73.001302],
+    "titulo": "Pueblos mapuche en defensa y lucha por la recuperación de sus territorios, frente a la explotación de la industria forestal.",
+    "texto": "Chile",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:262",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-38.092247, -72.422436],
+    "titulo": "Mapuches de la Comunidad Autónoma de Temucuicui en reocupación y defensa de su territorio en la Comuna de Ercilla",
+    "texto": "Chile",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:302",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-25.639031, -60.263877],
+    "titulo": "Pérdida del territorio indígena Teuco-Bermejito",
+    "texto": "Argentina",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:258",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-23.803226, -55.992832],
+    "titulo": "Comunidades indígenas del Chaco Paraguayo en defensa de sus territorios frente a la siembra de soja transgénica y la ganadería.",
+    "texto": "Paraguay",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:263",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-24.074373, -54.82427],
+    "titulo": "El pueblo ava guaraní chiripá, de la comunidad Takuara'i, en recuperación de sus territorios en la frontera entre Paraguay y Brasil",
+    "texto": "Paraguay",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:303",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-6.410632, -78.305564],
+    "titulo": "Extracción de minerales por empresa trasnacional Yanacocha.",
+    "texto": "Perú",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:268",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-17.055123, -71.463851],
+    "titulo": "Oposición a minera coupera La Tía María",
+    "texto": "Perú",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:267",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-14.084513, -72.131158],
+    "titulo": "Conflicto con proyecto minero Las Bambas.",
+    "texto": "Perú",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:265",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-51.03353, -79.001942],
+    "titulo": "Rechazo a proyecto minero Río Blanco",
+    "texto": "Perú",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:282",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [9.223999, -72.561044],
+    "titulo": "Reinvindicacion de territorio Indígena Wayúu, Yucpa y Bari por actividades mineras.",
+    "texto": "Venezuela",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:272",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [5.155774, -62.310285],
+    "titulo": "Arco Minero del Orinoco",
+    "texto": "Venezuela",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:315",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [3.052669, -60.505034],
+    "titulo": "Reconocimiento de Grupo Indígena Pemòn",
+    "texto": "Venezuela",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:316",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [5.022464, -72.56481],
+    "titulo": "Afectaciones por los Oleoductos Bicentenario y el Proyecto Caño Limón Coveñas.",
+    "texto": "Colombia-Venezuela",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:317",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [0.47242, -77.504638],
+    "titulo": "Conflicto fronterizo entre Ecuador y Colombia por uso de Glisofato en Cultivos Ilícitos.",
+    "texto": "Colombia",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:273",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [1.381164, -77.50021],
+    "titulo": "Desplazamiento de habitantes indígenas del pueblo Awá por grupos armados.",
+    "texto": "Colombia",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:274",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [5.175567, -75.143756],
+    "titulo": "Explotación minera en la población Embera-Chami de población Afrocolombiana",
+    "texto": "Colombia",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:275",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [1.113234, -77.214597],
+    "titulo": "Construcción de infraestructura que afecta a los indigenas Quillasinga, Awá, Inga y Kofan por parte de IIRSA, (Iniciativa para la Integración de la Infraestructura Regional Suramericana).",
+    "texto": "Colombia",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:276",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [6.334511, -75.562122],
+    "titulo": "Perseverancia contra la clausura del proyecto Minero Mande Norte por la empresa Muriel Mining Corporation.",
+    "texto": "Colombia",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:277",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [10.355255, -73.182829],
+    "titulo": "Indígenas Wayuú: Rechazo a la desviacion del cauce del rio Rancheria",
+    "texto": "Colombia",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:278",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-1.531073, -75.5152],
+    "titulo": "Explotación petrolera Kichwa en la amazonia ecuatoriana, Pueblo Napo-Kichwa y el Pueblo Kichwa del Pastaza.",
+    "texto": "Ecuador",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:279",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-0.223670, -78.507498],
+    "titulo": "Ley de tierras 2014 herramienta para el Neoliberalismo  contra indígenas y Afroecuatorianos.",
+    "texto": "Ecuador",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:280",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-3.5436, -77.590615],
+    "titulo": "Indígenas Shuar contra Proyecto Minero Mirador en el Sur de la Amazonia Ecuatoriana",
+    "texto": "Ecuador",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:312",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-2.982565, -51.824594],
+    "titulo": "Movimiento Indígena en defensa del Río Xingú",
+    "texto": "Brasil",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:284",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-19.328881, -44.125571],
+    "titulo": "Desastres ambientales en territorio indígena de Minas Gerais provocados por el incumplimiento de normas preventaas de la Compañía minera Vale.",
+    "texto": "Brasil",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:285",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-22.166873, -54.829059],
+    "titulo": "Defensa del territorio indigena guaraní kaiowá y terena",
+    "texto": "Brasil",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:286",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-27.243194, -52.344794],
+    "titulo": "Indígenas Guaraníes desplazados de su territorio en Rio Grande do Soul",
+    "texto": "Brasil",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:287",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-16.341364, -39.064916],
+    "titulo": "Movimiento indígena tupinamba en lucha por la recuperación de tierras ancestrales.",
+    "texto": "Brasil",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:318",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [1.712289, -61.124772],
+    "titulo": "Desconocimiento de derechos individuales y colectivos de los pueblos indígenas de Brasil",
+    "texto": "Brasil",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:319",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-4.832858, -64.851157],
+    "titulo": "Articulación de los pueblos del Amazonas en defensa de sus derechos colectivos y del territorio",
+    "texto": "Brasil",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:320",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [70.132036, -143.621336],
+    "titulo": "Pueblos Nativos de Alaska en defensa del Refugio Nacional Ártico de Vida Silvestre (ANWR)",
+    "texto": "Estados Unidos",
+    "region": "Norteamérica(1)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:250",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [64.174784, -120.289438],
+    "titulo": "Inuits en defensa del medio ambiente por problemática de cambio climático.",
+    "texto": "Canadá",
+    "region": "Norteamérica(1)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:251",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [15.4744, -87.261414],
+    "titulo": "Garífunas contra complejo turístico en Bahía de Tela.",
+    "texto": "Honduras",
+    "region": "Centroamérica(2)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:253",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [15.480034, -87.321991],
+    "titulo": "Pueblo Garifuna de Barra Vieja se defiende del Indura Resort",
+    "texto": "Honduras",
+    "region": "Centroamérica(2)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:254",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [9.37431, -82.510076],
+    "titulo": "Comunidad Bribri Rechaza Proyecto Minero de Talamanca.",
+    "texto": "Costa Rica",
+    "region": "Centroamérica(2)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:255",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-39.046029, -71.124768],
+    "titulo": "Comunidades mapuche de la zona Pulmarí en defensa y recuperación de sus terriorios frente a intereses estatales y empresariales.",
+    "texto": "Argentina",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:257",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-22.915435, -68.200038],
+    "titulo": "Comunidades Atacameñas de la región de Antofagasta en contra de un proyecto de extracción masiva de agua.",
+    "texto": "Chile",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:259",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-38.791145, -73.395905],
+    "titulo": "Indígenas lafkenche en defensa del territorio",
+    "texto": "Chile",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:260",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-41.198056, -73.418332],
+    "titulo": "Indígenas mapuches lakfenches de la zona costera de Chile, en defensa del territorio marino y sus recursos.",
+    "texto": "Chile",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:261",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-27.357569, -56.319937],
+    "titulo": "El pueblo Mbyá Guaraní exige la reparación e indemnización por los daños ocasionados por la construcción de la represa Yacyretá y su funcionamiento.",
+    "texto": "Paraguay",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:264",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-4.114237, -74.135081],
+    "titulo": "Derrames petroleros en región amazónica Valle de Loreto",
+    "texto": "Perú",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:266",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-17.414949, -60.475242],
+    "titulo": "Comunidades de Chiquitania por el derecho de su territorio",
+    "texto": "Bolivia",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:269",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-21.3455, -64.38571],
+    "titulo": "Indígenas guaraní en defensa del territorio frente a transnacional española Repsol",
+    "texto": "Bolivia",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:270",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-13.22248, -72.070573],
+    "titulo": "Indígenas del Bajo y Alto Urubamba afectados por proyecto energético Camisea",
+    "texto": "Perú",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:271",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [2.591668, -79.364568],
+    "titulo": "Rechazo al proyecto minero de Rio Blanco en Ecuador",
+    "texto": "Ecuador",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:281",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-20.491256, -41.470269],
+    "titulo": "Indígenas Guaraníes y Tupiniquins en defensa de sus derechos culturales y territoriales",
+    "texto": "Brasil",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:283",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [56.726741, -111.375152],
+    "titulo": "Pueblos originarios contra minera en Alberta",
+    "texto": "Canadá",
+    "region": "Norteamérica(1)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:288",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [53.547473, -113.493438],
+    "titulo": "Conflicto por Oleoducto Trans Mountain",
+    "texto": "Canadá",
+    "region": "Norteamérica(1)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:291",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [9.080644, -83.172877],
+    "titulo": "Conflicto Interétnico entre Indígenas Bribris en Salitre, Costa Rica.",
+    "texto": "Costa Rica",
+    "region": "Centroamérica(2)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:293",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [8.123833, -81.35351],
+    "titulo": "Comarca Ngäbe Buglé en resistencia contra proyecto hidroeléctrico Barro Blanco",
+    "texto": "Panamá",
+    "region": "Centroamérica(2)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:292",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-41.652472, -71.46137],
+    "titulo": "Comunidad mapuche Las Huaytekas en defensa y resistencia por sus tierras y territorios frente a intereses empresariales en la Provincia de Río Negro.",
+    "texto": "Argentina",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:296",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-38.921003, -68.067034],
+    "titulo": "Comunidad mapuche Lof Campo Maripe en defensa de sus territorios y recursos, frente a la empresa Chevron-YFP, en la Provincia de Neuquén.",
+    "texto": "Argentina",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:297",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-41.981761, -71.542144],
+    "titulo": "Comunidad mapuche Curruhuinca en lucha por la recuperación y uso de sus territorios dentro del Parque Nacional Lanín.",
+    "texto": "Argentina",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:298",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-40.142006, -71.314726],
+    "titulo": "Comunidades mapuche Curruhuinca, Atreuco y Vera, en defensa de su territorio y del Cerro Chapelco, en San Martín de los Andes.",
+    "texto": "Argentina",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:299",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-52.57006, -72.913996],
+    "titulo": "Comunidades Kawésqar y Yagán en defensa del mar. Luchan contra proyectos de salmonicultura que pretenden expandirse hacia las aguas de sus territorios en la Región de Magallanes y de la Antártica Chilena.",
+    "texto": "Chile",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:300",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-33.465351, -70.662821],
+    "titulo": "Pueblos indígenas y organizaciones de la sociedad civil piden al poder legislativo de Chile que no ratifiquen el TPP 11, ya  que permitiría la intervención de proyectos en territorios de los pueblos originarios, saqueando diversos recursos naturales y afectando la soberanía del país.",
+    "texto": "Chile",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:301",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-24.22973, -55.118876],
+    "titulo": "La comunidad Jejyty Mirĩ, perteneciente al pueblo Ava Guaraní, en recuperación de sus territorios luego de ser desalojados y sus viviendas quemadas.",
+    "texto": "Paraguay",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:304",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-31.425562, -55.595117],
+    "titulo": "Lucha por el reconocimiento identitario de la Nación Charrúa",
+    "texto": "Uruguay",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:305",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-9.170834, -75.243193],
+    "titulo": "Comunidad Sta. Clara Uchunya en defensa de bosques devastados por industrias de palma",
+    "texto": "Perú",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:306",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-3.59555, -78.301031],
+    "titulo": "Comunidades Awajún Wampis de la Cordillera del Condor en disputa con minera Afrodita",
+    "texto": "Perú",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:307",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-4.513951, -76.331823],
+    "titulo": "Organizaciones Wampi y Achuar denuncian actividades petroleras de Geopark y Petroperú",
+    "texto": "Perú",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:308",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-16.250957, -66.021449],
+    "titulo": "Indigenas de Tipnis contra construcción de carretera",
+    "texto": "Bolivia",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:309",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-22.053154, -64.245905],
+    "titulo": "Comuneros se oponen a hidrocarburífera en Reserva Natural de Tariquia",
+    "texto": "Bolivia",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:310",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-19.070931, -65.22571],
+    "titulo": "Nación Qhara Qhara demanda autonomía y restitución de territorios ancestrales",
+    "texto": "Bolivia",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:311",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [0.335549, -77.063909],
+    "titulo": "Indígenas Cofán Sinangoe por la defense del Río Aguarico Parque Nacional Cayambe.",
+    "texto": "Ecuador",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:313",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [1.141089, -75.561345],
+    "titulo": "Distintas Nacionalidades Indígenas contra Oleoducto de PetroAmazonas y PetroEcuador.",
+    "texto": "Colombia-Ecuador",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:314",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [52.673215, -111.307629],
+    "titulo": "Oposición a la construcción del oleoducto Keystone XL",
+    "texto": "Estados Unidos",
+    "region": "Norteamérica (1)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:289",
+    "nivel": "bg-green-400 rounded-lg p-4"
+  },
+  {
+    "location": [63.744793, -68.519797],
+    "titulo": "Inuits en defensa de derechos culturales y derecho a los recursos naturales.",
+    "texto": "Canadá",
+    "region": "Norteamérica (1)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:290",
+    "nivel": "bg-green-400 rounded-lg p-4"
+  }
+]
