@@ -2,8 +2,6 @@ import React, { useState } from 'react'
 import "leaflet/dist/leaflet.css"
 // import L from 'leaflet'
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
-import 'leaflet-fullscreen/dist/Leaflet.fullscreen'
-import 'leaflet-fullscreen/dist/Leaflet.fullscreen.css'
 import all from '../data/all.json'
 import marcadores01 from '../data/marcadores01Recursos.json'
 import marcadores02 from '../data/marcadores02Empresas.json'
@@ -99,7 +97,6 @@ export default function Mapa() {
             zoom={zoom}
             minZoom={5}
             scrollWheelZoom={true}
-            fullscreenControl={true}
             style={{ height: 650, width: "100%" }}
           >
             <TileLayer
