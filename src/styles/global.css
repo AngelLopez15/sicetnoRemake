@@ -56,3 +56,57 @@ body {
 }
 
 /* HAMBURGER MENU */
+.toggle-menu-icon {
+  height: 50px;
+  width: 50px;
+  position: relative;
+}
+
+.first-bar,
+.second-bar,
+.third-bar {
+  position: absolute;
+  width: 50px;
+  height: 3px;
+  background-color: #000;
+  border-radius: 10px;
+  transition: transform 0.2s;
+}
+
+.first-bar {
+  top: 15px;
+}
+
+.second-bar {
+  top: 25px;
+}
+
+.third-bar{
+  top: 35px;
+}
+
+.show-first-bar {
+  transform: rotate(-45deg);
+  top: 1.5rem;
+  position: absolute;
+  width: 50px;
+  height: 3px;
+  background-color: #000;
+  border-radius: 10px;
+  transition: transform 0.2s;
+}
+
+.show-second-bar {
+  width: 0;
+}
+
+.show-third-bar {
+  transform: rotate(45deg);
+  top: 1.5rem;
+  position: absolute;
+  width: 50px;
+  height: 3px;
+  background-color: #000;
+  border-radius: 10px;
+  transition: transform 0.2s;
+}
