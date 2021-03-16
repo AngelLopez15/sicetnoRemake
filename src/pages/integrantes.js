@@ -12,6 +12,10 @@ import garryLawton from '../images/integrantes/garryLawton.png'
 import irinaCalderon from '../images/integrantes/irinaCalderon.png'
 import irvinCornejo from '../images/integrantes/irvinCornejo.png'
 import victorSanchez from '../images/integrantes/victorSanchez.png'
+import alejandraMartinez from '../images/integrantes/alejandraMartinez.png'
+import raulOlivares from '../images/integrantes/raulOlivares.png'
+import rocioCantera from '../images/integrantes/rocioCantera.png'
+import beatrizVictoriano from '../images/integrantes/beatrizVictoriano.png'
 
 export default function integrantes() {
 
@@ -44,7 +48,7 @@ export default function integrantes() {
       foto: amarildoFigueroa,
       descripcion: '',
       nombre: 'Amarildo Figueroa Valencia',
-      titulo: 'Licenciado en Sociología, UNAM.',
+      titulo: 'Maestro en Estudios Políticos y Sociales, UNAM.',
       cv: '',
       bg: 'bg-blue-100 rounded-xl p-8 mb-5 mx-2 w-96',
     },
@@ -60,6 +64,38 @@ export default function integrantes() {
       foto: danielaRamirez,
       descripcion: '',
       nombre: 'Daniela Ramírez Yautentzi',
+      titulo: 'Licenciada en Estudios Latinoamericanos, UNAM.',
+      cv: '',
+      bg: 'bg-blue-100 rounded-xl p-8 mb-5 mx-2 w-96',
+    },
+    {
+      foto: alejandraMartinez,
+      descripcion: '',
+      nombre: 'Alejandra Monserrat Martínez Merlín',
+      titulo: 'Licenciada en Desarrollo y Gestión Intercultural, UNAM.',
+      cv: '',
+      bg: 'bg-purple-100 rounded-xl p-8 mb-5 mx-2 w-96',
+    },
+    {
+      foto: beatrizVictoriano,
+      descripcion: '',
+      nombre: 'Beatriz Victoriano López',
+      titulo: 'Licenciada en Estudios Latinoamericanos, UNAM.',
+      cv: '',
+      bg: 'bg-purple-100 rounded-xl p-8 mb-5 mx-2 w-96',
+    },
+    {
+      foto: raulOlivares,
+      descripcion: '',
+      nombre: 'Raúl Olivares López',
+      titulo: 'Licenciado en Sociología, UNAM.',
+      cv: '',
+      bg: 'bg-blue-100 rounded-xl p-8 mb-5 mx-2 w-96',
+    },
+    {
+      foto: rocioCantera,
+      descripcion: '',
+      nombre: 'Rocío Cantera Reyes',
       titulo: 'Licenciada en Estudios Latinoamericanos, UNAM.',
       cv: '',
       bg: 'bg-blue-100 rounded-xl p-8 mb-5 mx-2 w-96',
@@ -162,6 +198,16 @@ export default function integrantes() {
       institución: 'Universidade Federal do Dourados',
       bg: 'bg-blue-200 rounded-xl p-8 mb-5 mx-2 w-96 text-center',
     },
+    {
+      asesor: 'Eduardo Restrepo',
+      institución: 'Pontificia Universidad Javeriana',
+      bg: 'bg-blue-200 rounded-xl p-8 mb-5 mx-2 w-96 text-center',
+    },
+    {
+      asesor: 'Sibelys Mejía Rodríguez',
+      institución: 'Pontificia Universidad Javeriana',
+      bg: 'bg-blue-200 rounded-xl p-8 mb-5 mx-2 w-96 text-center',
+    },
   ]
 
   return (
@@ -210,7 +256,7 @@ export default function integrantes() {
           </div>
         </section>
         <section className="mb-10">
-          <h2 className="text-moradoSicetno text-4xl font-bold text-center mb-10">Consejo Asesor</h2>
+          <h2 className="text-moradoSicetno text-4xl font-bold text-center mb-10">Concejo Asesor</h2>
           <div className="flex w-full flex-wrap justify-around mt-5">
             {
               asesores.map((item, index) => (

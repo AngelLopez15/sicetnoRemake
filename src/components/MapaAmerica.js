@@ -28,6 +28,7 @@ export default function MapaAmerica() {
             zoom={zoom}
             scrollWheelZoom={true}
             minZoom={3}
+            maxZoom={17}
             style={{ height: 800, width: "100%" }}
           >
             <TileLayer

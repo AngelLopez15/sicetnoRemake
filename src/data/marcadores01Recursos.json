@@ -288,6 +288,13 @@
     "nivel": "bg-green-400 rounded-lg p-4"
   },
   {
+    "location": [19.9188625, -89.138273],
+    "titulo": "Tren maya",
+    "texto": "Municipio o poblado: Yucatán",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:322",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
     "location": [20.018777, -97.525193],
     "titulo": "Subestación eléctrica de la CFE en Cuetzalan",
     "texto": "Municipio o poblado: Cuetzalan, Puebla",

@@ -84,6 +84,20 @@
     "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
+    "location": [19.586741, -89.74502],
+    "titulo": "Conflicto maya-menonitas por siembra de soya GM",
+    "texto": "Municipio o poblado: Campeche",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:321",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [19.9188625, -89.138273],
+    "titulo": "Tren maya",
+    "texto": "Municipio o poblado: Yucatán",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:322",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
     "location": [25.960083, -106.909424],
     "titulo": "Tarahumaras y tepehuanes en contra de siembra de transgénicos",
     "texto": "Municipio o poblado: Urique, Guadalupe y Calvo, Maguarichi y Carichi Chihuahua",

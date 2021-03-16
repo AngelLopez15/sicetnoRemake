@@ -89,6 +89,7 @@ export default function Mapa() {
         </button>
       </div>
       <p className="invisible">{state}</p>
+      <h2 className="text-moradoSicetno text-4xl font-bold text-center mb-10">Conflictos de México</h2>
       {
         (typeof window !== 'undefined')
           ?
@@ -96,6 +97,7 @@ export default function Mapa() {
             center={location}
             zoom={zoom}
             minZoom={5}
+            maxZoom={17}
             scrollWheelZoom={true}
             style={{ height: 650, width: "100%" }}
           >
