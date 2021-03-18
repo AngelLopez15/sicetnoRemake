@@ -82,7 +82,7 @@ export default function integrantes() {
       nombre: 'Beatriz Victoriano López',
       titulo: 'Licenciada en Estudios Latinoamericanos, UNAM.',
       cv: '',
-      bg: 'bg-purple-100 rounded-xl p-8 mb-5 mx-2 w-96',
+      bg: 'bg-blue-100 rounded-xl p-8 mb-5 mx-2 w-96',
     },
     {
       foto: raulOlivares,
@@ -90,7 +90,7 @@ export default function integrantes() {
       nombre: 'Raúl Olivares López',
       titulo: 'Licenciado en Sociología, UNAM.',
       cv: '',
-      bg: 'bg-blue-100 rounded-xl p-8 mb-5 mx-2 w-96',
+      bg: 'bg-purple-100 rounded-xl p-8 mb-5 mx-2 w-96',
     },
     {
       foto: rocioCantera,

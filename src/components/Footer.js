@@ -19,7 +19,11 @@ export default function Footer() {
           <p className="mb-6">Circuito Mario de la Cueva s/n Ciudad de la Investigación en Humanidades, Ciudad Universitaria, C. P. 04510,Coyoacán, México, D. F.</p>
           <ul className="flex justify-evenly">
             <li>5622-7400 ext. 280</li>
-            <li>proyectosicetno@gmail.com</li>
+            <li>
+              <a href="mailto:proyectosicetno@gmail.com">
+                proyectosicetno@gmail.com
+              </a>
+            </li>
           </ul>
         </div>
         <div className="w-4/12 md:w-full md:mb-10">
@@ -45,13 +49,13 @@ export default function Footer() {
       </div>
       <div className="flex w-full flex-wrap justify-evenly my-10">
         <div className="w-28 md:w-1/2">
-          <ImageLogos fileName="logosIISazul.png" alt="Logo IIS" />
-        </div>
-        <div className="w-28 md:w-1/2">
           <ImageLogos fileName="logosUNAMazul.png" alt="Logo UNAM" />
         </div>
         <div className="w-28 md:w-1/2">
           <ImageLogos fileName="dgapa.png" alt="Logo dgapa" />
+        </div>
+        <div className="w-28 md:w-1/2">
+          <ImageLogos fileName="logosIISazul.png" alt="Logo IIS" />
         </div>
         <div className="w-28 md:w-1/2">
           <ImageLogos fileName="logosCONACYT.png" alt="Logo CONACYT" />

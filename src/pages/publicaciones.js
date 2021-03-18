@@ -5,6 +5,7 @@ import territorios from '../doc/etnicidad_vol1.pdf'
 import violencia from '../doc/etnicidad_vol2.pdf'
 import cultura from '../doc/cultura.pdf'
 import revista from '../doc/RodolfoStavenhagen.pdf'
+import palabras from '../doc/palabras_que_dormian.pdf'
 
 export default function publicaciones() {
 
@@ -26,6 +27,12 @@ export default function publicaciones() {
       alt: 'Cultura política indígena',
       titulo: 'Cultura política indígena',
       url: cultura,
+    },
+    {
+      portada: 'las_palabras.png',
+      alt: 'Las palabras que en mí dormían',
+      titulo: 'Las palabras que en mí dormían',
+      url: palabras,
     },
     {
       portada: 'revista_mexicana.jpeg',
