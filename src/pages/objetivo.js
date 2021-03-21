@@ -122,7 +122,7 @@ export default function objetivo() {
         <section className="mb-10">
           <h2 className="text-moradoSicetno text-4xl font-bold text-center mb-10">La base cuenta con mapas de conflictos y de las organizaciones de México, Bolivia, Ecuador y Chile</h2>
           <div>
-            <iframe src="https://s3.amazonaws.com/uploads.knightlab.com/storymapjs/d57a5094c853772687cf3784a12e0802/organizaciones/index.html" frameborder="0" width="100%" height="800"></iframe>
+            <iframe title="mapa" src="https://s3.amazonaws.com/uploads.knightlab.com/storymapjs/d57a5094c853772687cf3784a12e0802/organizaciones/index.html" frameborder="0" width="100%" height="800"></iframe>
           </div>
         </section>
         <section className="mb-10">

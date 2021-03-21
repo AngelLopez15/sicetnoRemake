@@ -1,0 +1,301 @@
+[
+  {
+    "location": [-25.639031, -60.263877],
+    "titulo": "Pérdida del territorio indígena Teuco-Bermejito",
+    "texto": "Argentina",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:258",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-17.0132, -71.02502],
+    "titulo": "Oposición a minera coupera La Tía María",
+    "texto": "Perú",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:267",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [1.904928, -78.08024],
+    "titulo": "Desplazamiento de habitantes indígenas del pueblo Awá por grupos armados.",
+    "texto": "Colombia",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:274",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [1.288969, -77.35894],
+    "titulo": "Construcción de infraestructura que afecta a los indigenas Quillasinga, Awá, Inga y Kofan por parte de IIRSA, (Iniciativa para la Integración de la Infraestructura Regional Suramericana).",
+    "texto": "Colombia",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:276",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-2.344049, -77.45872],
+    "titulo": "Explotación petrolera Kichwa en la amazonia ecuatoriana, Pueblo Napo-Kichwa y el Pueblo Kichwa del Pastaza.",
+    "texto": "Ecuador",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:279",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-2.176792, -79.85775],
+    "titulo": "Ley de tierras 2014 herramienta para el Neoliberalismo  contra indígenas y Afroecuatorianos.",
+    "texto": "Ecuador",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:280",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-38.092247, -72.422436],
+    "titulo": "Mapuches de la Comunidad Autónoma de Temucuicui en reocupación y defensa de su territorio en la Comuna de Ercilla",
+    "texto": "Chile",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:302",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-24.074373, -54.82427],
+    "titulo": "El pueblo ava guaraní chiripá, de la comunidad Takuara'i, en recuperación de sus territorios en la frontera entre Paraguay y Brasil",
+    "texto": "Paraguay",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:303",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [4.480541, -61.73482],
+    "titulo": "Reconocimiento de Grupo Indígena Pemòn",
+    "texto": "Venezuela",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:316",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-2.541968, -54.67182],
+    "titulo": "Movimiento indígena tupinamba en lucha por la recuperación de tierras ancestrales.",
+    "texto": "Brasil",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:318",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [1.712289, -61.124772],
+    "titulo": "Desconocimiento de derechos individuales y colectivos de los pueblos indígenas de Brasil",
+    "texto": "Brasil",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:319",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-4.832858, -64.85116],
+    "titulo": "Articulación de los pueblos del Amazonas en defensa de sus derechos colectivos y del territorio",
+    "texto": "Brasil",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:320",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [64.174784, -120.289438],
+    "titulo": "Inuits en defensa del medio ambiente por problemática de cambio climático.",
+    "texto": "Canadá",
+    "region": "Norteamérica(1)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:251",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [15.802014, -87.438238],
+    "titulo": "Garífunas contra complejo turístico en Bahía de Tela.",
+    "texto": "Honduras",
+    "region": "Centroamérica(2)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:253",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [15.823495, -87.564378],
+    "titulo": "Pueblo Garifuna de Barra Vieja se defiende del Indura Resort",
+    "texto": "Honduras",
+    "region": "Centroamérica(2)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:254",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-22.915435, -68.200038],
+    "titulo": "Comunidades Atacameñas de la región de Antofagasta en contra de un proyecto de extracción masiva de agua.",
+    "texto": "Chile",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:259",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-17.824413, -63.1518],
+    "titulo": "Comunidades de Chiquitania por el derecho de su territorio",
+    "texto": "Bolivia",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:269",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [9.144256, -83.325290],
+    "titulo": "Conflicto Interétnico entre Indígenas Bribris en Salitre, Costa Rica.",
+    "texto": "Costa Rica",
+    "region": "Centroamérica(2)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:293",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-41.981761, -71.542144],
+    "titulo": "Comunidad mapuche Curruhuinca en lucha por la recuperación y uso de sus territorios dentro del Parque Nacional Lanín.",
+    "texto": "Argentina",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:298",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-40.142006, -71.314726],
+    "titulo": "Comunidades mapuche Curruhuinca, Atreuco y Vera, en defensa de su territorio y del Cerro Chapelco, en San Martín de los Andes.",
+    "texto": "Argentina",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:299",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-52.57006, -72.913996],
+    "titulo": "Comunidades Kawésqar y Yagán en defensa del mar. Luchan contra proyectos de salmonicultura que pretenden expandirse hacia las aguas de sus territorios en la Región de Magallanes y de la Antártica Chilena.",
+    "texto": "Chile",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:300",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-33.465351, -70.662821],
+    "titulo": "Pueblos indígenas y organizaciones de la sociedad civil piden al poder legislativo de Chile que no ratifiquen el TPP 11, ya  que permitiría la intervención de proyectos en territorios de los pueblos originarios, saqueando diversos recursos naturales y afectando la soberanía del país.",
+    "texto": "Chile",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:301",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-24.22973, -55.118876],
+    "titulo": "La comunidad Jejyty Mirĩ, perteneciente al pueblo Ava Guaraní, en recuperación de sus territorios luego de ser desalojados y sus viviendas quemadas.",
+    "texto": "Paraguay",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:304",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-31.728217, -55.9888],
+    "titulo": "Lucha por el reconocimiento identitario de la Nación Charrúa",
+    "texto": "Uruguay",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:305",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [-19.120638, -65.378812],
+    "titulo": "Nación Qhara Qhara demanda autonomía y restitución de territorios ancestrales",
+    "texto": "Bolivia",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:311",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [63.761487, -68.5103683],
+    "titulo": "Inuits en defensa de derechos culturales y derecho a los recursos naturales.",
+    "texto": "Canadá",
+    "region": "Norteamérica (1)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:290",
+    "nivel": "bg-green-400 rounded-lg p-4"
+  },
+  {
+    "location": [19.684890, -101.953571],
+    "titulo": "Purépechas de Cherán en defensa de su autonomía y territorio",
+    "texto": "Municipio o poblado: Cherán, Michoacán",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:237",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [19.975083, -97.699959],
+    "titulo": "Nahuas de Huitzilan en conflicto por despojo de territorio y abuso de poder",
+    "texto": "Municipio o poblado: Municipio de Huitzilan de Serdán, Sierra Norte de Puebla",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:226",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [19.416571, -100.066604],
+    "titulo": "Pueblos mazahuas en defensa de su derecho al agua",
+    "texto": "Municipio o poblado: Valle de Toluca, Estado de México",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:235",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [16.117692, -92.033315],
+    "titulo": "Demanda al derecho de reconocimiento constitucional para etnias de Chiapas",
+    "texto": "Municipio o poblado: La Trinitaria, Chiapas",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:214",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [32.625288, -115.450282],
+    "titulo": "Indígenas cucapá demandan su derecho a los recursos naturales",
+    "texto": "Municipio o poblado: Golfo de California, Baja California. Actualmente el pueblo indígena Cucapá se sitúa en los ejidos Cucapá Mestizo y el Mayor Cucapah, ubicados en el municipio de Mexicali. También se encuentran dispersos en otras localidades,colonias Mariana y Zacatecas, ejidos Saltillo  El Indiviso y Poza de Arvizu.",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:218",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [27.915258, -107.061718],
+    "titulo": "Indígenas tarahumaras afectados por la sequía y hambruna",
+    "texto": "Municipio o poblado: Estado de Chihuahua, Sierra Tarahumara",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:219",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [29.070097, -110.958095],
+    "titulo": "Despojo de tierras a indígenas yaquis",
+    "texto": "Municipio o poblado: Sonora",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:215",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [16.965192, -99.095845],
+    "titulo": "Persecución y hostigamiento permanente en contra de la Organización del Pueblo Indígena Me'phaa (OPIM)",
+    "texto": "Municipio o poblado: Región Montaña del Estado de Guerrero. Municipio de Ayutla de los Libres.",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:229",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [20.429751, -103.362768],
+    "titulo": "Pueblo wixárika de Tuapurie en contra del proyecto carretera estatal Amatitlán-Bolaños-Huejuquila en su territorio",
+    "texto": "Municipio o poblado: Santa Catarina Cuexcomatitlán, Jalisco",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:234",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [31.672055, -116.515233],
+    "titulo": "Mixtecos migrantes piden tierras que les fueron despojadas",
+    "texto": "Municipio o poblado: Ensenada, Baja California",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:225",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [17.127089, -96.799440],
+    "titulo": "Zapotecos de los Valles centrales de Oaxaca en contra del proyecto carretero Libramiento Sur",
+    "texto": "Municipio o poblado: Comunidades de los municipios: Soledad Etla, San Lorenzo Cacaotepec, San Felipe Tejalapam, Santa María Atzompa, San Pedro Ixtlahuaca, Santa Cruz Xoxoctlán, Cuilápam de Guerrero, Villa de Zaachila, Trinidad Zaachila, San Bartolo Coyotepec, San Sebastian Teitipac, Santa Cruz Papalutla, San Sebastián Abasolo, San Jerónimo Tlacochahuaya, San Juan Guelavia.",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:247",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [16.819967, -98.733940],
+    "titulo": "Resistencia de comunidades de la montaña de Guerrero al  Proyecto Corazón de las Tinieblas",
+    "texto": "Municipio o poblado: Malinaltepec, Estado de Guerrero",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:241",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [17.098258, -96.062529],
+    "titulo": "Mixes en contra del plagio de sus bordados tradicionales",
+    "texto": "Santa Teresa Tlahuitoltepec, Oaxaca",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:224",
+    "nivel": "bg-green-400 rounded-lg p-4"
+  }
+]

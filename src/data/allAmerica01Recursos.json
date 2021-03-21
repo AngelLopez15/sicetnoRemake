@@ -8,43 +8,11 @@
     "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
-    "location": [15.534033, -89.3319],
-    "titulo": "Acusan Mayas Q'eqchi Desastre Ecológico y presencia militar en Izabal.",
-    "texto": "Guatemala",
-    "region": "Centroamérica(2)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:294",
-    "nivel": "bg-red-400 rounded-lg p-4"
-  },
-  {
-    "location": [14.766828, -90.37102],
-    "titulo": "Resistencia Pacífica La Puya contra Proyecto Minero el Tambor.",
-    "texto": "Guatemala",
-    "region": "Centroamérica(2)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:295",
-    "nivel": "bg-red-400 rounded-lg p-4"
-  },
-  {
     "location": [8.847791, -80.6358],
     "titulo": "Comarca Ngäbe Buglé se niega a Proyecto Cobre Panamá.",
     "texto": "Panamá",
     "region": "Centroamérica(2)",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:256",
-    "nivel": "bg-red-400 rounded-lg p-4"
-  },
-  {
-    "location": [-38.515042, -73.001302],
-    "titulo": "Pueblos mapuche en defensa y lucha por la recuperación de sus territorios, frente a la explotación de la industria forestal.",
-    "texto": "Chile",
-    "region": "Sudamérica(3)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:262",
-    "nivel": "bg-red-400 rounded-lg p-4"
-  },
-  {
-    "location": [-38.092247, -72.422436],
-    "titulo": "Mapuches de la Comunidad Autónoma de Temucuicui en reocupación y defensa de su territorio en la Comuna de Ercilla",
-    "texto": "Chile",
-    "region": "Sudamérica(3)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:302",
     "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
@@ -56,35 +24,19 @@
     "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
+    "location": [-38.515042, -73.001302],
+    "titulo": "Pueblos mapuche en defensa y lucha por la recuperación de sus territorios, frente a la explotación de la industria forestal.",
+    "texto": "Chile",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:262",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
     "location": [-23.803226, -55.992832],
     "titulo": "Comunidades indígenas del Chaco Paraguayo en defensa de sus territorios frente a la siembra de soja transgénica y la ganadería.",
     "texto": "Paraguay",
     "region": "Sudamérica(3)",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:263",
-    "nivel": "bg-red-400 rounded-lg p-4"
-  },
-  {
-    "location": [-24.074373, -54.82427],
-    "titulo": "El pueblo ava guaraní chiripá, de la comunidad Takuara'i, en recuperación de sus territorios en la frontera entre Paraguay y Brasil",
-    "texto": "Paraguay",
-    "region": "Sudamérica(3)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:303",
-    "nivel": "bg-red-400 rounded-lg p-4"
-  },
-  {
-    "location": [-6.684854, -78.52486],
-    "titulo": "Extracción de minerales por empresa trasnacional Yanacocha.",
-    "texto": "Perú",
-    "region": "Sudamérica(3)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:268",
-    "nivel": "bg-red-400 rounded-lg p-4"
-  },
-  {
-    "location": [-17.0132, -71.02502],
-    "titulo": "Oposición a minera coupera La Tía María",
-    "texto": "Perú",
-    "region": "Sudamérica(3)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:267",
     "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
@@ -96,51 +48,11 @@
     "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
-    "location": [-5.100111, -79.68316],
-    "titulo": "Rechazo a proyecto minero Río Blanco",
-    "texto": "Perú",
-    "region": "Sudamérica(3)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:282",
-    "nivel": "bg-red-400 rounded-lg p-4"
-  },
-  {
     "location": [10.0431, -72.67109],
     "titulo": "Reinvindicacion de territorio Indígena Wayúu, Yucpa y Bari por actividades mineras.",
     "texto": "Venezuela",
     "region": "Sudamérica(3)",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:272",
-    "nivel": "bg-red-400 rounded-lg p-4"
-  },
-  {
-    "location": [7.925116, -64.3779],
-    "titulo": "Arco Minero del Orinoco",
-    "texto": "Venezuela",
-    "region": "Sudamérica(3)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:315",
-    "nivel": "bg-red-400 rounded-lg p-4"
-  },
-  {
-    "location": [4.480541, -61.73482],
-    "titulo": "Reconocimiento de Grupo Indígena Pemòn",
-    "texto": "Venezuela",
-    "region": "Sudamérica(3)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:316",
-    "nivel": "bg-red-400 rounded-lg p-4"
-  },
-  {
-    "location": [6.757998, -71.32746],
-    "titulo": "Afectaciones por los Oleoductos Bicentenario y el Proyecto Caño Limón Coveñas.",
-    "texto": "Colombia-Venezuela",
-    "region": "Sudamérica(3)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:317",
-    "nivel": "bg-red-400 rounded-lg p-4"
-  },
-  {
-    "location": [0.47242, -77.504638],
-    "titulo": "Conflicto fronterizo entre Ecuador y Colombia por uso de Glisofato en Cultivos Ilícitos.",
-    "texto": "Colombia",
-    "region": "Sudamérica(3)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:273",
     "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
@@ -157,14 +69,6 @@
     "texto": "Colombia",
     "region": "Sudamérica(3)",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:275",
-    "nivel": "bg-red-400 rounded-lg p-4"
-  },
-  {
-    "location": [1.288969, -77.35894],
-    "titulo": "Construcción de infraestructura que afecta a los indigenas Quillasinga, Awá, Inga y Kofan por parte de IIRSA, (Iniciativa para la Integración de la Infraestructura Regional Suramericana).",
-    "texto": "Colombia",
-    "region": "Sudamérica(3)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:276",
     "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
@@ -192,19 +96,11 @@
     "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
-    "location": [-2.176792, -79.85775],
-    "titulo": "Ley de tierras 2014 herramienta para el Neoliberalismo  contra indígenas y Afroecuatorianos.",
-    "texto": "Ecuador",
+    "location": [-5.100111, -79.68316],
+    "titulo": "Rechazo a proyecto minero Río Blanco",
+    "texto": "Perú",
     "region": "Sudamérica(3)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:280",
-    "nivel": "bg-red-400 rounded-lg p-4"
-  },
-  {
-    "location": [-4.080043, -78.95589],
-    "titulo": "Indígenas Shuar contra Proyecto Minero Mirador en el Sur de la Amazonia Ecuatoriana",
-    "texto": "Ecuador",
-    "region": "Sudamérica(3)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:312",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:282",
     "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
@@ -240,6 +136,46 @@
     "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
+    "location": [15.534033, -89.3319],
+    "titulo": "Acusan Mayas Q'eqchi Desastre Ecológico y presencia militar en Izabal.",
+    "texto": "Guatemala",
+    "region": "Centroamérica(2)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:294",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [14.766828, -90.37102],
+    "titulo": "Resistencia Pacífica La Puya contra Proyecto Minero el Tambor.",
+    "texto": "Guatemala",
+    "region": "Centroamérica(2)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:295",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [-4.080043, -78.95589],
+    "titulo": "Indígenas Shuar contra Proyecto Minero Mirador en el Sur de la Amazonia Ecuatoriana",
+    "texto": "Ecuador",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:312",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [7.925116, -64.3779],
+    "titulo": "Arco Minero del Orinoco",
+    "texto": "Venezuela",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:315",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [6.757998, -71.32746],
+    "titulo": "Afectaciones por los Oleoductos Bicentenario y el Proyecto Caño Limón Coveñas.",
+    "texto": "Colombia-Venezuela",
+    "region": "Sudamérica(3)",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:317",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
     "location": [-2.541968, -54.67182],
     "titulo": "Movimiento indígena tupinamba en lucha por la recuperación de tierras ancestrales.",
     "texto": "Brasil",
@@ -269,22 +205,6 @@
     "texto": "Estados Unidos",
     "region": "Norteamérica(1)",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:250",
-    "nivel": "bg-yellow-400 rounded-lg p-4"
-  },
-  {
-    "location": [64.174784, -120.289438],
-    "titulo": "Inuits en defensa del medio ambiente por problemática de cambio climático.",
-    "texto": "Canadá",
-    "region": "Norteamérica(1)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:251",
-    "nivel": "bg-yellow-400 rounded-lg p-4"
-  },
-  {
-    "location": [15.802014, -87.438238],
-    "titulo": "Garífunas contra complejo turístico en Bahía de Tela.",
-    "texto": "Honduras",
-    "region": "Centroamérica(2)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:253",
     "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
@@ -344,22 +264,6 @@
     "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
-    "location": [-4.114237, -74.135081],
-    "titulo": "Derrames petroleros en región amazónica Valle de Loreto",
-    "texto": "Perú",
-    "region": "Sudamérica(3)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:266",
-    "nivel": "bg-yellow-400 rounded-lg p-4"
-  },
-  {
-    "location": [-17.824413, -63.1518],
-    "titulo": "Comunidades de Chiquitania por el derecho de su territorio",
-    "texto": "Bolivia",
-    "region": "Sudamérica(3)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:269",
-    "nivel": "bg-yellow-400 rounded-lg p-4"
-  },
-  {
     "location": [-21.3455, -64.38571],
     "titulo": "Indígenas guaraní en defensa del territorio frente a transnacional española Repsol",
     "texto": "Bolivia",
@@ -416,14 +320,6 @@
     "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
-    "location": [9.144256, -83.325290],
-    "titulo": "Conflicto Interétnico entre Indígenas Bribris en Salitre, Costa Rica.",
-    "texto": "Costa Rica",
-    "region": "Centroamérica(2)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:293",
-    "nivel": "bg-yellow-400 rounded-lg p-4"
-  },
-  {
     "location": [-41.652472, -71.46137],
     "titulo": "Comunidad mapuche Las Huaytekas en defensa y resistencia por sus tierras y territorios frente a intereses empresariales en la Provincia de Río Negro.",
     "texto": "Argentina",
@@ -472,22 +368,6 @@
     "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
-    "location": [-24.22973, -55.118876],
-    "titulo": "La comunidad Jejyty Mirĩ, perteneciente al pueblo Ava Guaraní, en recuperación de sus territorios luego de ser desalojados y sus viviendas quemadas.",
-    "texto": "Paraguay",
-    "region": "Sudamérica(3)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:304",
-    "nivel": "bg-yellow-400 rounded-lg p-4"
-  },
-  {
-    "location": [-31.728217, -55.9888],
-    "titulo": "Lucha por el reconocimiento identitario de la Nación Charrúa",
-    "texto": "Uruguay",
-    "region": "Sudamérica(3)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:305",
-    "nivel": "bg-yellow-400 rounded-lg p-4"
-  },
-  {
     "location": [-8.195651, -74.861556],
     "titulo": "Comunidad Sta. Clara Uchunya en defensa de bosques devastados por industrias de palma",
     "texto": "Perú",
@@ -528,14 +408,6 @@
     "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
-    "location": [-19.120638, -65.378812],
-    "titulo": "Nación Qhara Qhara demanda autonomía y restitución de territorios ancestrales",
-    "texto": "Bolivia",
-    "region": "Sudamérica(3)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:311",
-    "nivel": "bg-yellow-400 rounded-lg p-4"
-  },
-  {
     "location": [0.056818, -77.3292971],
     "titulo": "Indígenas Cofán Sinangoe por la defense del Río Aguarico Parque Nacional Cayambe.",
     "texto": "Ecuador",
@@ -560,14 +432,6 @@
     "nivel": "bg-green-400 rounded-lg p-4"
   },
   {
-    "location": [63.761487, -68.5103683],
-    "titulo": "Inuits en defensa de derechos culturales y derecho a los recursos naturales.",
-    "texto": "Canadá",
-    "region": "Norteamérica (1)",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:290",
-    "nivel": "bg-green-400 rounded-lg p-4"
-  },
-  {
     "location": [19.684890, -101.953571],
     "titulo": "Purépechas de Cherán en defensa de su autonomía y territorio",
     "texto": "Municipio o poblado: Cherán, Michoacán",
@@ -577,7 +441,7 @@
   {
     "location": [26.543136, -107.008976],
     "titulo": "Conflicto por recursos forestales en territorio tarahumara",
-    "texto": "Municipio o poblado: Ejido Pino Gordo, Municipio Guadalupe y Calvo, Chihuahua",
+    "texto": "Municipio o poblado: Ejido Pino Gordo,Municipio Guadalupe y Calvo, Chihuahua",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:210",
     "nivel": "bg-red-400 rounded-lg p-4"
   },
@@ -589,13 +453,6 @@
     "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
-    "location": [17.186930, -97.961578],
-    "titulo": "Triquis en contra de la militarización de su territorio",
-    "texto": "Municipio o poblado: San Juan Copala, Oaxaca",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:245",
-    "nivel": "bg-red-400 rounded-lg p-4" 
-  },
-  {
     "location": [19.975083, -97.699959],
     "titulo": "Nahuas de Huitzilan en conflicto por despojo de territorio y abuso de poder",
     "texto": "Municipio o poblado: Municipio de Huitzilan de Serdán, Sierra Norte de Puebla",
@@ -604,21 +461,21 @@
   },
   {
     "location": [20.089919, -97.796479],
-    "titulo": "Los guardianes del río Ajajalpan luchan contra la construcción del proyecto hidroeléctrico Puebla 1",
-    "texto": "Municipio o poblado: San Felipe Tepatlán, Tlapacoya y Ahuacatlán; Puebla",
+    "titulo": "Los guardianes del río Ajajalpan luchan contra la construcción del proyecto hidroeléctrico, Puebla 1",
+    "texto": "Municipio o poblado: San Felipe Tepatlán, Tlapacoya y Ahuacatlán, Puebla",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:220",
-    "nivel": "bg-red-400 rounded-lg p-4" 
+    "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
     "location": [19.416571, -100.066604],
     "titulo": "Pueblos mazahuas en defensa de su derecho al agua",
     "texto": "Municipio o poblado: Valle de Toluca, Estado de México",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:235",
-    "nivel": "bg-red-400 rounded-lg p-4" 
+    "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
     "location": [16.874776, -99.642818],
-    "titulo": "CECOP en defensa del territorio frente al proyecto hidroeléctrico 'La Parota'",
+    "titulo": "CECOP en defensa del territorio frente al proyecto hidroeléctrico, La Parota",
     "texto": "Municipio o poblado: Acapulco, Guerrero",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:201",
     "nivel": "bg-red-400 rounded-lg p-4"
@@ -631,44 +488,23 @@
     "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
-    "location": [16.117692, -92.033315],
-    "titulo": "Demanda al derecho de reconocimiento constitucional para etnias de Chiapas",
-    "texto": "Municipio o poblado: La Trinitaria, Chiapas",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:214",
-    "nivel": "bg-red-400 rounded-lg p-4"
-  },
-  {
     "location": [18.341334, -97.024782],
     "titulo": "Proyecto hidroeléctrico coyolapa-atlzalán",
-    "texto": "Municipio o poblado: San Pablo Zoquitlán, Coyomeapan y Tlacotepec",
+    "texto": "Municipio o poblado: San Pablo Zoquitlán, Coyomeapan y Tlacotepec.",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:232",
     "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
     "location": [17.599577, -99.175453],
-    "titulo": "Violencia y narcotráfico en la comunidad indígena de Chilapa, Guerrero",
-    "texto": "Municipio o poblado: Chilapa, Guerrero",
+    "titulo": "Violencia y narcotràfico en la comunidad indígena de Chilapa, Guerrero",
+    "texto": "Municipio o poblado: Chilapa, Guerrero.",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:246",
     "nivel": "bg-red-400 rounded-lg p-4"
   },
   {
-    "location": [19.586741, -89.74502],
-    "titulo": "Conflicto maya-menonitas por siembra de soya GM",
-    "texto": "Municipio o poblado: Campeche",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:321",
-    "nivel": "bg-yellow-400 rounded-lg p-4"
-  },
-  {
-    "location": [19.9188625, -89.138273],
-    "titulo": "Tren maya",
-    "texto": "Municipio o poblado: Yucatán",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:322",
-    "nivel": "bg-yellow-400 rounded-lg p-4"
-  },
-  {
     "location": [25.960083, -106.909424],
     "titulo": "Tarahumaras y tepehuanes en contra de siembra de transgénicos",
-    "texto": "Municipio o poblado: Urique, Guadalupe y Calvo, Maguarichi y Carichi Chihuahua",
+    "texto": "Municipio o poblado: Urique, Guadalupe y Calvo, Maguarichi y Carichi, Chihuahua",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:224",
     "nivel": "bg-yellow-400 rounded-lg p-4"
   },
@@ -682,7 +518,7 @@
   {
     "location": [21.331973, -97.775276],
     "titulo": "Defensa del Río Blanco: Oposición a la Hidroeléctrica Naranjal",
-    "texto": "Amatlan, Texhuacan, Mixtla, Yanga, Fortin; Veracruz",
+    "texto": "Municipio o poblado: Amatlan, Texhuacan, Mixtla, Yanga, Fortin; Veracruz",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:213",
     "nivel": "bg-yellow-400 rounded-lg p-4"
   },
@@ -708,24 +544,10 @@
     "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
-    "location": [27.915258, -107.061718],
-    "titulo": "Indígenas tarahumaras afectados por la sequía y hambruna",
-    "texto": "Municipio o poblado: Estado de Chihuahua, Sierra Tarahumara",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:219",
-    "nivel": "bg-yellow-400 rounded-lg p-4"
-  },
-  {
     "location": [29.070097, -110.958095],
     "titulo": "Despojo de tierras a indígenas yaquis",
     "texto": "Municipio o poblado: Sonora",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:215",
-    "nivel": "bg-yellow-400 rounded-lg p-4"
-  },
-  {
-    "location": [16.965192, -99.095845],
-    "titulo": "Persecución y hostigamiento permanente en contra de la Organización del Pueblo Indígena Me'phaa (OPIM)",
-    "texto": "Municipio o poblado: Región Montaña del Estado de Guerrero. Municipio de Ayutla de los Libres.",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:229",
     "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
@@ -738,7 +560,7 @@
   {
     "location": [18.794881, -99.273953],
     "titulo": "Comunidades campesinas en lucha contra empresa minera por la protección de recursos culturales y naturales",
-    "texto": "Municipio o poblado: La región cercana a la zona arqueológica de Xochicalco y al Cerro Jumil: las localidades de San Agustín Tetlama (Temixco), Alpuyeca (Xochitepec) y Xochicalco (Miacatlán) en el Estado de Morelos",
+    "texto": "Municipio o poblado: La región cercana a la zona arqueológica de Xochicalco y al Cerro Jumil: las localidades de San Agustín Tetlama (Temixco), Alpuyeca (Xochitepec) y Xochicalco (Miacatlán) en el Estado de Morelos.",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:202",
     "nivel": "bg-yellow-400 rounded-lg p-4"
   },
@@ -761,13 +583,6 @@
     "titulo": "Lucha contra la construcción de la presa hidroeléctrica Paso de la Reina",
     "texto": "Municipio o poblado: Río Verde en la costa de Oaxaca",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:221",
-    "nivel": "bg-yellow-400 rounded-lg p-4"
-  },
-  {
-    "location": [15.323132, -92.658082],
-    "titulo": "Resistencia a las Minas de la Biosfera del Triunfo",
-    "texto": "Municipio o poblado: Acacoyagua y Escuintla, Chiapas",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:239",
     "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
@@ -801,15 +616,8 @@
   {
     "location": [15.368846, -92.245654],
     "titulo": "Rechazo a mina de oro del ejido de Carrizal",
-    "texto": "Motozintla, Chiapas",
+    "texto": "Municipio o poblado: Motozintla, Chiapas",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:238",
-    "nivel": "bg-yellow-400 rounded-lg p-4"
-  },
-  {
-    "location": [19.375265, -99.443796],
-    "titulo": "Comunidades otomíes afectadas por proyecto carretero",
-    "texto": "Municipio o poblado: Xochicuautla, Estado de México",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:206",
     "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
@@ -834,24 +642,10 @@
     "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
-    "location": [16.819967, -98.733940],
-    "titulo": "Resistencia de comunidades de la montaña de Guerrero al  Proyecto Corazón de las Tinieblas",
-    "texto": "Municipio o poblado: Malinaltepec, Estado de Guerrero",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:241",
-    "nivel": "bg-yellow-400 rounded-lg p-4"
-  },
-  {
     "location": [20.017779, -97.522217],
     "titulo": "Oposición a la hidroeléctrica Cuamono en Cuetzalan",
     "texto": "Municipio o poblado: Cuetzalan, Puebla",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:228",
-    "nivel": "bg-yellow-400 rounded-lg p-4"
-  },
-  {
-    "location": [15.739022, -96.788839],
-    "titulo": "Disputa comunal en la costa de Oaxaca",
-    "texto": "Municipio o poblado: Santa Maria Tonameca, Tilzapote",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:216",
     "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
@@ -864,21 +658,21 @@
   {
     "location": [19.624007, -97.816412],
     "titulo": "Proyecto Tuligtic en Puebla",
-    "texto": "Municipio o poblado: Ixtacamaxtitlan, Puebla",
+    "texto": "Municipio o poblado: Ixtacamaxtitlan,Puebla",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:233",
     "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [19.363131, -103.823073],
     "titulo": "Lucha del pueblo indígena de Zacualpan contra la instalación de El Porvenir una empresa minera",
-    "texto": "Municipio o poblado: Zacualpan, Comala, Colima",
+    "texto": "Municipio o poblado: Zacualpan,Comala, Colima",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:222",
     "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [22.217119, -105.007342],
     "titulo": "Consejos Indígena e Intercomunitario para el Desarrollo de la Cuenca del Río San Pedro Mezquital vs. CFE",
-    "texto": "Territorio, cuenca del río Pedro",
+    "texto": "Municipio o poblado: Territorio, cuenca del río Pedro",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:211",
     "nivel": "bg-yellow-400 rounded-lg p-4"
   },
@@ -899,10 +693,18 @@
   {
     "location": [19.808864, -97.808864],
     "titulo": "Conflicto Minero: Tetela de Ocampo se opone a minera Frisco de C. Slim",
-    "texto": "Municipio o poblado: Tetela de Ocampo, Puebla",
+    "texto": "Municipio o poblado: Tetela de Ocampo Puebla",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:242",
     "nivel": "bg-yellow-400 rounded-lg p-4"
   },
+  {
+    "location": [15.739022, -96.788839],
+    "titulo": "Disputa comunal en la costa de Oaxaca",
+    "texto": "Municipio o poblado: Santa Maria Tonameca,Tilzapote",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:216",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+
   {
     "location": [20.738559, -89.286002],
     "titulo": "Rechazo a la granja porcícola en Homún",
@@ -918,16 +720,16 @@
     "nivel": "bg-green-400 rounded-lg p-4"
   },
   {
-    "location": [17.098258, -96.062529],
-    "titulo": "Mixes en contra del plagio de sus bordados tradicionales",
-    "texto": "Municipio o poblado: Santa Teresa Tlahuitoltepec, Oaxaca",
-    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:224",
-    "nivel": "bg-green-400 rounded-lg p-4"
+    "location": [19.9188625, -89.138273],
+    "titulo": "Tren maya",
+    "texto": "Municipio o poblado: Yucatán",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:322",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
   },
   {
     "location": [20.018777, -97.525193],
     "titulo": "Subestación eléctrica de la CFE en Cuetzalan",
-    "texto": "Cuetzalan, Puebla",
+    "texto": "Municipio o poblado: Cuetzalan, Puebla",
     "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:243",
     "nivel": "bg-green-400 rounded-lg p-4"
   }

@@ -1,0 +1,30 @@
+[
+  {
+    "location": [17.186930, -97.961578],
+    "titulo": "Triquis en contra de la militarización de su territorio",
+    "texto": "Municipio o poblado: San Juan Copala, Oaxaca",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:245",
+    "nivel": "bg-red-400 rounded-lg p-4"
+  },
+  {
+    "location": [16.560613, -95.096831],
+    "titulo": "Oposición a  ampliación minera en Ixtepec, Oaxaca",
+    "texto": "Municipio o poblado: Ixtepec, Oaxaca",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:227",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [19.586741, -89.74502],
+    "titulo": "Conflicto maya-menonitas por siembra de soya GM",
+    "texto": "Municipio o poblado: Campeche",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:321",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  },
+  {
+    "location": [16.908245, -92.092519],
+    "titulo": "Restitución de tierras a comunidad de la Selva Lacandona",
+    "texto": "Municipio o poblado: Ocosingo, Chiapas",
+    "url": "http://www.sicetno.org/ords/f?p=2000100:201:::NO::P201_ID:242",
+    "nivel": "bg-yellow-400 rounded-lg p-4"
+  }
+]

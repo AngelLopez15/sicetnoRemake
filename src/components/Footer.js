@@ -36,13 +36,13 @@ export default function Footer() {
           <h2 className="text-blue-600 text-3xl font-bold mb-6">Síguenos</h2>
           <ul className="flex justify-evenly">
             <li>
-              <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/proyectosicetno/"><IconFb className="w-6"/></a>
+              <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/proyectosicetno/"><IconFb className="w-6"/><p className="hidden">facebook</p></a>
             </li>
             <li>
-              <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/Sicetno"><IconTw className="w-10"/></a>
+              <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/Sicetno"><IconTw className="w-10"/><p className="hidden">twitter</p></a>
             </li>
             <li>
-              <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCMz9Q6NwFCEW1_Up-3n6kMg"><IconYt className="w-12"/></a>
+              <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCMz9Q6NwFCEW1_Up-3n6kMg"><IconYt className="w-12"/><p className="hidden">youtube</p></a>
             </li>
           </ul>
         </div>

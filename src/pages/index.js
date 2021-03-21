@@ -16,6 +16,7 @@ import frase5 from '../images/carrusel/frase5.webp'
 import frase6 from '../images/carrusel/frase6.webp'
 import Image from "../components/Image"
 import Carrusel from "../components/Carrusel"
+import manual  from "../doc/manual.pdf"
 
 const IndexPage = () => (
   <Layout>
@@ -114,7 +115,7 @@ const IndexPage = () => (
             <p className="px-16 py-10 md:px-2 md:py-5">Las sociedades indígenas tienen su propia historia de movilización, de lucha y de protesta, por lo que están lejos de ser pasivas, indiferentes o apáticas, sin embargo el control autoritario hacia estos grupos se expresa con más contundencia. Además están mayoritariamente privadas o limitadas de un recurso esencial para el funcionamiento de la democracia: el acceso a la información y el control de sus medios de comunicación.</p>
           </div>
           <div className="w-1/2 flex justify-center md:w-full">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/tdbOgPaIrj8?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe title="video" width="560" height="315" src="https://www.youtube.com/embed/tdbOgPaIrj8?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
         </div>
       </section>
@@ -173,7 +174,7 @@ const IndexPage = () => (
             <div>
               <p className="px-16 py-10 md:px-2 md:py-5">SICETNO consta de un Manual Técnico en donde se describen las metodologías que se emplearon para la realización de este proyecto así como también el uso de las herramientas de búsqueda con que cuenta la base de datos con ejemplos ilustrados.</p>
               <div className="flex justify-center">
-              <button className="bg-verdeSicetno text-white py-2 px-10 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-moradoSicetno transform hover:-translate-y-1 hover:scale-110">Ver Manual técnico</button>
+              <a className="bg-verdeSicetno text-white py-2 px-10 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-moradoSicetno transform hover:-translate-y-1 hover:scale-110" target="_blank" rel="noopener noreferrer" href={manual}>Ver Manual técnico</a>
               </div>
             </div>
           </div>
