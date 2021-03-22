@@ -16,6 +16,8 @@ import alejandraMartinez from '../images/integrantes/alejandraMartinez.png'
 import raulOlivares from '../images/integrantes/raulOlivares.png'
 import rocioCantera from '../images/integrantes/rocioCantera.png'
 import beatrizVictoriano from '../images/integrantes/beatrizVictoriano.png'
+import SEO from '../components/seo'
+import imagenSeo from "../images/logos/sicetno.png"
 
 export default function integrantes() {
 
@@ -212,6 +214,11 @@ export default function integrantes() {
 
   return (
     <Layout>
+      <SEO
+        title="Integrantes | Sicetno Orgindal - Proyecto de investigación, pueblos indígenas, cultura política indígena"
+        description="SICETNO es una plataforma de consulta en línea para el estudio y desarrollo de la cultura política indígena. Instituto de Investigaciones Sociales, UNAM."
+        image={imagenSeo}
+      />
       <header className="bg-gray-200 py-24 text-center wallpaper-integrantes md:pt-32">
         <h1 className="text-moradoSicetno text-6xl">Integrantes</h1>
       </header>

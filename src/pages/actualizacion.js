@@ -1,10 +1,17 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import Layout from '../layout/layout'
+import SEO from '../components/seo'
+import imagenSeo from "../images/logos/sicetno.png"
 
 export default function actualizacion() {
   return (
     <Layout>
+      <SEO
+        title="Actualizacion | Sicetno Orgindal - Proyecto de investigación, pueblos indígenas, cultura política indígena"
+        description="SICETNO es una plataforma de consulta en línea para el estudio y desarrollo de la cultura política indígena. Instituto de Investigaciones Sociales, UNAM."
+        image={imagenSeo}
+      />
       <header className="bg-gray-200 py-24 text-center wallpaper-actualizacion md:pt-32">
         <h1 className="text-white text-6xl">Sobre la actualización</h1>
       </header>

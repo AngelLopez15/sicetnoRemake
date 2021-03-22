@@ -4,6 +4,8 @@ import Image from "../components/Image"
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
 import cv from "../doc/cv.pdf"
+import SEO from "../components/seo"
+import imagenSeo from "../images/logos/sicetno.png"
 
 export default function natividad() {
 
@@ -432,6 +434,11 @@ export default function natividad() {
 
   return (
     <Layout>
+      <SEO
+        title="Natividad Gutiérrez Chong | Sicetno Orgindal - Proyecto de investigación, pueblos indígenas, cultura política indígena"
+        description="Natividad Gutiérrez Chong | SICETNO es una plataforma de consulta en línea para el estudio y desarrollo de la cultura política indígena. Instituto de Investigaciones Sociales, UNAM."
+        image={imagenSeo}
+      />
       <header className="md:pt-32">
         <h1 className="text-moradoSicetno text-6xl font-bold text-center my-10">Natividad Gutiérrez Chong</h1>
         <div className="container mx-auto px-10 md:px-5 text-justify leading-7">

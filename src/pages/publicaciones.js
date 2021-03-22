@@ -6,6 +6,8 @@ import violencia from '../doc/etnicidad_vol2.pdf'
 import cultura from '../doc/cultura.pdf'
 import revista from '../doc/RodolfoStavenhagen.pdf'
 import palabras from '../doc/palabras_que_dormian.pdf'
+import SEO from '../components/seo'
+import imagenSeo from "../images/logos/sicetno.png"
 
 export default function publicaciones() {
 
@@ -44,6 +46,11 @@ export default function publicaciones() {
 
   return (
     <Layout>
+      <SEO
+        title="Publicaciones | Sicetno Orgindal - Proyecto de investigación, pueblos indígenas, cultura política indígena"
+        description="SICETNO es una plataforma de consulta en línea para el estudio y desarrollo de la cultura política indígena. Instituto de Investigaciones Sociales, UNAM."
+        image={imagenSeo}
+      />
       <header className="bg-gray-200 py-24 text-center wallpaper-publicaciones md:pt-32">
         <h1 className="text-white text-6xl">Publicaciones</h1>
       </header>
@@ -59,7 +66,7 @@ export default function publicaciones() {
         </section>
         <section className="mb-10">
           <h2 className="text-moradoSicetno text-4xl font-bold text-center mb-10">Recursos</h2>
-          <div className="flex flex-wrap justify-between">
+          <div className="flex flex-wrap justify-evenly">
             {
               libros.map((item, index) => (
                 <div key={index} className="w-80 mx-4 my-4" >

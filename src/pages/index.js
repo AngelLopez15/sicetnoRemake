@@ -17,9 +17,16 @@ import frase6 from '../images/carrusel/frase6.webp'
 import Image from "../components/Image"
 import Carrusel from "../components/Carrusel"
 import manual  from "../doc/manual.pdf"
+import SEO from "../components/seo"
+import imagenSeo from "../images/logos/sicetno.png"
 
 const IndexPage = () => (
   <Layout>
+    <SEO 
+      title="Sicetno Orgindal - Proyecto de investigación, pueblos indígenas, cultura política indígena"
+      description="SICETNO es una plataforma de consulta en línea para el estudio y desarrollo de la cultura política indígena. Instituto de Investigaciones Sociales, UNAM."
+      image={imagenSeo}
+    />
     <header className="bg-gray-200 py-28 px-8 text-center bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 wallpaper-home md:pt-32">
       <h1 className="text-white text-6xl font-extrabold mb-6">SICETNO</h1>
       <p className="mb-6 text-white text-2xl">Es una plataforma de consulta en línea dirigida a los interesados en el estudio y desarrollo de la cultura política indígena. Fundada por la socióloga <span className="font-bold">Natividad Gutiérrez Chong, investigadora del IIS, UNAM.</span></p>
@@ -29,7 +36,24 @@ const IndexPage = () => (
     </header>
     <main className="container mx-auto px-10 text-justify leading-7">
       <section className="my-10">
-        <h2 className="text-center text-blue-600 text-4xl font-bold mb-10">Acerca de SICETNO</h2>
+        <h2 className="text-center text-blue-600 text-4xl font-bold mb-10">SICETNO</h2>
+        <p className="mb-6">Sistema de Consulta de Organizaciones Indígenas y Conflictos Étnicos en las Américas. Actualización 2021.</p>
+        <p className="mb-6">El proyecto SICETNO opera como un observatorio de consulta sobre conflictividades. Principalmente, de aquellas que son resultado de procesos de dominación étnico/racial, que, al constituirse como casos de estudio, albergan tres características: organización política, comunicación con el Estado y documentación del proceso.</p>
+        <p className="mb-6">En la fase actual SICETNO ha incorporado en su base de datos el seguimiento de casos de conflictos que involucran a pueblos indígenas y afrodescendientes. A la fecha tiene un registro de 123 casos, distribuidos en tres regiones de las Américas: norte, centro y sur.</p>
+        <p className="mb-6">En 2020 SICETNO amplió su cobertura geográfica de estudio. Esto como resultado de la experiencia de investigación en la identificación de los procesos estratégicos y de mayor incidencia que ocurren en las regiones. Así, se lograron realizar 116 casos que afectan a pueblos indígenas a lo largo y ancho del continente.</p>
+        <h2 className="text-center text-blue-600 text-2xl font-bold mb-10">Afro descendencia en las Américas</h2>
+        <p className="mb-6">Debido a la dinámica de los procesos de dominación étnico/racial, SICETNO, ha incorporado conflictos que enfrentan pueblos afrodescendientes. Para la cohorte de 2021, se registraron 7 casos, de los cuales 2 son eminentemente afrodescendientes y 5 son afro-indígenas. Es importante mencionar que los conflictos identificados hacen referencia a territorios que son compartidos por poblaciones afrodescendientes e indígenas. Para los fines de registro, son considerados como afrodescendientes por la prevalencia que tiene esa población en sus afectaciones, pero también debe apuntarse que están en juego intereses indígenas.</p>
+        <p className="mb-6">En tanto que la incorporación de los casos afrodescendientes es reciente, es necesario detenernos en el registro llevado a cabo. Los 2 casos afrodescendientes corresponden a Honduras, mientras que 3 casos afro-indígenas se registraron en Colombia, 1 caso afro-indígena en Panamá y otro 1 afro-indígena en Ecuador.</p>
+        <p className="mb-6">El registro afrodescendiente abarcó principalmente los casos más consolidados en sus niveles de conflictividad lo cual nos ha permitido observar dos situaciones: 1. identificar las zonas regionales estratégicas o polos de presencia afrodescendiente, de modo que pueda proyectarse un registro más meticuloso y específico a futuro; y 2.  analizar la interdependencia que tienen los conflictos afrodescendientes con los indígenas.</p>
+        <p className="mb-6">Esta exploración sobre casos afrodescendientes ha permitido a la plataforma SICETNO, afinar sus estrategias de estudio para dar cobertura a las conflictividades de estas poblaciones en las Américas y, de esa manera, incorporar a la base de datos más información que refleje las dominaciones étnico/raciales contemporáneas.</p>
+        <p className="mb-6">SICETNO ha proyectado la siguiente cobertura de las conflictividades afrodescendientes a través de la identificación de polos o zonas estratégicas de estudio:</p>
+        <ul className="list-disc">
+          <li className="font-black my-5">La incorporación del Caribe a la región de Centroamérica, de modo que los países de las Antillas puedan estar como un conjunto consolidado de estudios de conflictos afrodescendientes.</li>
+          <li className="font-black my-5">La identificación en la región Sur, de la zona afro andina: Colombia, Perú, Venezuela y Ecuador. Así también la zona afrobrasileña, que merece un tratamiento preponderante.</li>
+          <li className="font-black my-5">La identificación en la región norte, de los casos de Estados Unidos y México, donde este último por la cercanía de estudio tendría mayor detenimiento.</li>
+          <li className="font-black my-5">Extensivamente, se haría registro de las principales organizaciones fundadas por afrodescendientes, que hoy han abierto el debate en las Américas como la tercera raíz, y la constitución de sus derechos de reconocimiento, autonomía y libre determinación.</li>
+        </ul>
+        <h2 className="text-center text-blue-600 text-2xl font-bold mb-10">Acerca de SICETNO</h2>
         <p className="mb-6">Sistema de Consulta de Organizaciones Indígenas y Conflictos Étnicos en las Américas (SICETNO) es una plataforma digital desarrollada con herramientas innovadoras para vincular la investigación en ciencias sociales con la tecnología de la información sobre temas de democracia y derechos humanos en el continente. Sus objetivos son:</p>
         <p className="mb-6">Crear y desarrollar un sistema de consulta digital con información actualizada de las organizaciones de los pueblos indígenas y de los conflictos étnicos que ocurren en las Américas.</p>
         <p className="mb-6">La función de la plataforma es facilitar el acceso a la información y su socialización entre los diferentes actores sociales que involucren intereses étnicos, y de esta manera contribuir a que el trabajo desarrollado en las organizaciones logre ser visible en cuanto a sus planteamientos y propuestas con respecto a la autonomía, a la libre determinación, entre otros. La plataforma también muestra los tipos de conflictividad étnica en las Américas e identifica los daños y amenazas más frecuentes que ponen en riesgo a las poblaciones indígenas y a los territorios que habitan.</p>

@@ -9,8 +9,9 @@ import React from "react"
 import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
+import logoDefault from '../images/logos/sicetno.png'
 
-function SEO({ description, lang, meta, title }) {
+function SEO({ description, lang, meta, title, image }) {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -53,6 +54,10 @@ function SEO({ description, lang, meta, title }) {
           content: `website`,
         },
         {
+          property: `og:image`,
+          content: image || logoDefault,
+        },
+        {
           name: `twitter:card`,
           content: `summary`,
         },
@@ -76,7 +81,7 @@ function SEO({ description, lang, meta, title }) {
 SEO.defaultProps = {
   lang: `es`,
   meta: [],
-  description: ``,
+  description: `SICETNO es una plataforma de consulta en línea para el estudio y desarrollo de la cultura política indígena. Instituto de Investigaciones Sociales, UNAM.`,
 }
 
 SEO.propTypes = {

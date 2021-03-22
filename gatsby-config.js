@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Sicetno Orgindal`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@AO_lopez - Angel Octavio López CRuz`,
+    description: `SICETNO es una plataforma de consulta en línea para el estudio y desarrollo de la cultura política indígena. Instituto de Investigaciones Sociales, UNAM.`,
+    author: `@AO_lopez - Angel Octavio López Cruz`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -35,6 +35,7 @@ module.exports = {
         icon: `src/images/sicetnoFav.png`, // This path is relative to the root of the site.
       },
     },
+    `gatsby-plugin-offline`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,

@@ -1,5 +1,7 @@
 import React from 'react'
+import SEO from '../components/seo'
 import Layout from '../layout/layout'
+import imagenSeo from "../images/logos/sicetno.png"
 
 export default function objetivo() {
 
@@ -101,6 +103,11 @@ export default function objetivo() {
 
   return (
     <Layout>
+      <SEO
+        title="Objetivo | Sicetno Orgindal - Proyecto de investigación, pueblos indígenas, cultura política indígena"
+        description="SICETNO es una plataforma de consulta en línea para el estudio y desarrollo de la cultura política indígena. Instituto de Investigaciones Sociales, UNAM."
+        image={imagenSeo}
+      />
       <header className="bg-gray-200 py-24 text-center wallpaper-objetivo md:pt-32">
         <h1 className="text-white text-6xl">Objetivo</h1>
       </header>
@@ -111,10 +118,10 @@ export default function objetivo() {
           <div className="flex flex-wrap justify-around mt-5">
             {
               atributos.map((item, index) => (
-                  <div className={item.bg} key={index}>
-                    <h3 className="font-bold text-center text-xl mb-2">{item.titulo}</h3>
-                    <p className="text-justify">{item.texto}</p>
-                  </div>
+                <div className={item.bg} key={index}>
+                  <h3 className="font-bold text-center text-xl mb-2">{item.titulo}</h3>
+                  <p className="text-justify">{item.texto}</p>
+                </div>
               ))
             }
           </div>

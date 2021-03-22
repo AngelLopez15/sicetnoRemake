@@ -3,11 +3,18 @@ import Footer from '../components/Footer'
 import Navbar from '../components/NavbarMap'
 import Mapa from '../components/Mapa'
 import MapaAmerica from '../components/MapaAmerica'
+import SEO from '../components/seo'
+import imagenSeo from "../images/logos/sicetno.png"
 
 export default function mapa() {
 
   return (
     <>
+      <SEO
+        title="Mapa interactivo | Sicetno Orgindal - Proyecto de investigación, pueblos indígenas, cultura política indígena"
+        description="SICETNO es una plataforma de consulta en línea para el estudio y desarrollo de la cultura política indígena. Instituto de Investigaciones Sociales, UNAM."
+        image={imagenSeo}
+      />
       <Navbar />
       <header className="bg-gray-200 py-24 text-center wallpaper-mapa md:pt-32">
         <h1 className="text-white text-6xl">Mapa interactivo de conflictos</h1>
@@ -23,7 +30,7 @@ export default function mapa() {
               </li>
               <li className="flex w-96 px-3 flex-wrap md:w-full md:justify-center justify-center items-center md:mb-4">
                 <div className="bg-yellow-400 rounded-full w-5 h-5 p-5 m-4"></div>
-                <p className="font-semibold">Identifica los conflictos que están vigentes o no se ha llegado a ninguna resolución, pero que presentan algún tipo de represión sin asesinatos.</p> 
+                <p className="font-semibold">Identifica los conflictos que están vigentes o no se ha llegado a ninguna resolución, pero que presentan algún tipo de represión sin asesinatos.</p>
               </li>
               <li className="flex w-96 px-3 flex-wrap md:w-full md:justify-center justify-center items-center md:mb-4">
                 <div className="bg-red-400 rounded-full w-5 h-5 p-5 mr-4"></div>
