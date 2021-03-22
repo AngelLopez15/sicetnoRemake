@@ -9,6 +9,26 @@ module.exports = {
     `gatsby-plugin-postcss`,
     `gatsby-plugin-svgr`,
     {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `GatsbyJS`,
+        short_name: `GatsbyJS`,
+        start_url: `/`,
+        background_color: `#f7f0eb`,
+        theme_color: `#a2466c`,
+        display: `standalone`,
+        icon: `src/images/maskable_icon.png`,
+        icons: [
+          {
+            src: `src/images/maskable_icon.png`,
+            sizes: `157x157`,
+            type: `image/png`,
+            purpose: `any maskable`,
+          },
+        ], // Add or remove icon sizes as desired
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
@@ -33,6 +53,14 @@ module.exports = {
         theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `src/images/sicetnoFav.png`, // This path is relative to the root of the site.
+        icons: [
+          {
+            src: `src/images/maskable_icon.png`,
+            sizes: `157x157`,
+            type: `image/png`,
+            purpose: `any maskable`,
+          },
+        ], // Add or remove icon sizes as desired
       },
     },
     `gatsby-plugin-offline`,
