@@ -55,7 +55,7 @@ export default function Footer() {
           <ImageLogos fileName="dgapa.png" alt="Logo dgapa" />
         </div>
         <div className="w-28 md:w-1/2">
-          <ImageLogos fileName="logosIISazul.png" alt="Logo IIS" />
+          <ImageLogos fileName="logoiisnuevo.png" alt="Logo IIS" />
         </div>
         <div className="w-28 md:w-1/2">
           <ImageLogos fileName="logosCONACYT.png" alt="Logo CONACYT" />
