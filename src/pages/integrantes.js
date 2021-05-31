@@ -8,7 +8,7 @@ import amarildoFigueroa from '../images/integrantes/amarildoFigueroa.png'
 import angelLopez from '../images/integrantes/angelLopez.png'
 import danielaQuintanar from '../images/integrantes/danielaQuintanar.png'
 import danielaRamirez from '../images/integrantes/danielaRamirez.png'
-import garryLawton from '../images/integrantes/garryLawton.png'
+import franciscoBarrena from '../images/integrantes/Francisco.jpg'
 import irinaCalderon from '../images/integrantes/irinaCalderon.png'
 import irvinCornejo from '../images/integrantes/irvinCornejo.png'
 import victorSanchez from '../images/integrantes/victorSanchez.png'
@@ -135,10 +135,10 @@ export default function integrantes() {
       bg: 'bg-blue-100 rounded-xl p-8 mb-5 mx-2 w-96',
     },
     {
-      foto: garryLawton,
+      foto: franciscoBarrena,
       descripcion: '',
-      nombre: 'Garry Lawton',
-      titulo: 'Diseño y programación de la base de datos.',
+      nombre: 'Francisco Barrena Nájera',
+      titulo: 'Expertos en bases de datos y sistemas de información S.A de C.V.',
       cv: '',
       bg: 'bg-purple-100 rounded-xl p-8 mb-5 mx-2 w-96',
     },
