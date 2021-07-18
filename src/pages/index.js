@@ -1,4 +1,5 @@
 import React from "react"
+import { Link } from 'gatsby'
 import Layout from "../layout/layout"
 import {ReactComponent as IconArrow} from "../images/svg/arrow-alt-circle-right-regular.svg"
 import {ReactComponent as IconDB} from "../images/svg/database-solid.svg"
@@ -32,9 +33,12 @@ const IndexPage = () => (
       <p className="mb-6 text-white text-2xl">Es una plataforma de consulta en línea dirigida a los interesados en el estudio y desarrollo de la cultura política indígena. Fundada por la socióloga <span className="font-bold">Natividad Gutiérrez Chong, investigadora del IIS, UNAM.</span></p>
       <p className="mb-6 text-white text-2xl font-bold">Proyecto PAPIIT-UNAM IN301219 Afectación de intereses étnicos y neoliberalismo</p>
       <p className="mb-6 text-white text-2xl font-bold">Proyecto SEP-CONACYT 128183</p>
-      <button className="bg-moradoSicetno text-white py-2 px-10 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-verdeSicetno transform hover:-translate-y-1 hover:scale-110"><a target="_blank" rel="noopener noreferrer" href="https://www.sicetno.org/ords/f?p=2000100:1::::::">Ir a la Base de Datos<IconArrow className="w-6 inline ml-2" /></a></button>
+      <div className="flex w-full flex-wrap justify-center">
+        <button className="bg-naranjaSicetno text-white py-2 px-10 m-2 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-verdeSicetno transform hover:-translate-y-1 hover:scale-110"><Link to="/mapa">Ir al Mapa interactivo</Link></button>
+        <button className="bg-moradoSicetno text-white py-2 px-10 m-2 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-verdeSicetno transform hover:-translate-y-1 hover:scale-110"><a target="_blank" rel="noopener noreferrer" href="https://www.sicetno.org/ords/f?p=2000100:1::::::">Ir a la Base de Datos<IconArrow className="w-6 inline ml-2" /></a></button>
+      </div>
     </header>
-    <main className="container mx-auto px-10 text-justify leading-7">
+    <main className="container mx-auto px-10 md:px-5 text-justify leading-7">
       <section className="my-10">
         <h2 className="text-center text-blue-600 text-4xl font-bold mb-10">SICETNO</h2>
         <p className="mb-6">Sistema de Consulta de Organizaciones Indígenas y Conflictos Étnicos en las Américas. Actualización 2021.</p>
@@ -196,6 +200,15 @@ const IndexPage = () => (
             </div>
           </div>
         </div>
+      </section>
+      <section className="mb-10">
+        <h2 className="text-moradoSicetno text-4xl font-bold text-center mb-6">SICETNO</h2>
+        <p className="mb-6">
+          SICETNO, 2021, es una plataforma digital editada por la Universidad Nacional Autónoma de México, Ciudad Universitaria, Alcaldía Coyoacán, C.P. 04510, Ciudad de México, a través del Instituto de Investigaciones Sociales, Circuito Mario de la Cueva s/n, Ciudad Universitaria, Col. Copilco, Alcaldía Coyoacán, C.P. 04510, Ciudad de México, Tel. 56227400 ext. 280, https://www.sicetno.org/, proyectosicetno@gmail.com, Responsable académica: Natividad Gutiérrez Chong. Certificado de Reserva de Derechos En Trámite. Responsable de la última actualización, Instituto de Investigaciones Sociales, Circuito Mario de la Cueva s/n, Ciudad Universitaria, Col. Copilco, Alcaldía Coyoacán, C.P. 04510, Ciudad de México, fecha de la última modificación, 08 de julio de 2021.
+        </p>
+        <p className="mb-6">
+          El contenido disponible es responsabilidad de los autores y no refleja el punto de vista de del Responsable académico o de la UNAM. Se autoriza la reproducción total o parcial de los textos aquí publicados siempre y cuando se cite la fuente completa y la dirección electrónica de la publicación.
+        </p>
       </section>
     </main>
   </Layout>

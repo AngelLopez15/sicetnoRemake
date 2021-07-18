@@ -44,38 +44,38 @@ export default function MapaAmerica() {
     <>
       <div className="flex justify-around mb-10 md:flex md:flex-col md:mb-4">
         <button
-          className="bg-naranjaSicetno text-white py-2 px-6 md:px-2 md:mb-5 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-moradoSicetno transform hover:-translate-y-1 hover:scale-110"
+          className="bg-verdeSicetno focus:outline-none text-white py-2 px-6 md:px-2 md:mb-5 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-moradoSicetno transform hover:-translate-y-1 hover:scale-110"
           onClick={() => cambiarMarcadoresAmerica('Todos')}
         >
           Todos los conflictos
         </button>
         <button
-          className="bg-naranjaSicetno text-white py-2 px-6 md:px-2 md:mb-5 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-moradoSicetno transform hover:-translate-y-1 hover:scale-110"
+          className="bg-naranjaSicetno focus:outline-none text-white py-2 px-6 md:px-2 md:mb-5 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-moradoSicetno transform hover:-translate-y-1 hover:scale-110"
           onClick={() => cambiarMarcadoresAmerica('Recursos')}
         >
           Eje I: Recursos naturales, territorio y desplazamiento
         </button>
         <button
-          className="bg-naranjaSicetno text-white py-2 px-6 md:px-2 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-moradoSicetno transform hover:-translate-y-1 hover:scale-110"
+          className="bg-naranjaSicetno focus:outline-none text-white py-2 px-6 md:px-2 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-moradoSicetno transform hover:-translate-y-1 hover:scale-110"
           onClick={() => cambiarMarcadoresAmerica('Empresas')}>
           Eje II: Empresas nacionales y transnacionales
         </button>
       </div>
       <div className="flex justify-around mb-6 md:flex md:flex-col md:mb-4">
         <button
-          className="bg-moradoSicetno text-white py-2 px-6 md:px-2 md:mb-5 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-naranjaSicetno transform hover:-translate-y-1 hover:scale-110"
+          className="bg-moradoSicetno focus:outline-none text-white py-2 px-6 md:px-2 md:mb-5 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-naranjaSicetno transform hover:-translate-y-1 hover:scale-110"
           onClick={() => cambiarMarcadoresAmerica('Derechos')}
         >
           Eje III: Derechos de los pueblos indígenas
         </button>
         <button
-          className="bg-moradoSicetno text-white py-2 px-6 md:px-2 md:mb-5 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-naranjaSicetno transform hover:-translate-y-1 hover:scale-110"
+          className="bg-moradoSicetno focus:outline-none text-white py-2 px-6 md:px-2 md:mb-5 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-naranjaSicetno transform hover:-translate-y-1 hover:scale-110"
           onClick={() => cambiarMarcadoresAmerica('Interetnicos')}
         >
           Eje IV: Conflictos Interétnicos
         </button>
         <button
-          className="bg-moradoSicetno text-white py-2 px-6 md:px-2 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-naranjaSicetno transform hover:-translate-y-1 hover:scale-110"
+          className="bg-moradoSicetno focus:outline-none text-white py-2 px-6 md:px-2 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-naranjaSicetno transform hover:-translate-y-1 hover:scale-110"
           onClick={() => cambiarMarcadoresAmerica('Ambiente')}
         >
           Eje V: Medio Ambiente
