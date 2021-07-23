@@ -61,7 +61,7 @@ export default function Footer() {
           <ImageLogos fileName="logosCONACYT.png" alt="Logo CONACYT" />
         </div>
       </div>
-      <div className="text-center">©Todos los derechos reservados 2014-2015. Sicetno Orgindal {onlyYear}</div>
+      <div className="text-center">©Todos los derechos reservados. Sicetno Orgindal {onlyYear}</div>
     </footer>
   )
 }

@@ -34,8 +34,8 @@ const IndexPage = () => (
       <p className="mb-6 text-white text-2xl font-bold">Proyecto PAPIIT-UNAM IN301219 Afectación de intereses étnicos y neoliberalismo</p>
       <p className="mb-6 text-white text-2xl font-bold">Proyecto SEP-CONACYT 128183</p>
       <div className="flex w-full flex-wrap justify-center">
-        <button className="bg-naranjaSicetno text-white py-2 px-10 m-2 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-verdeSicetno transform hover:-translate-y-1 hover:scale-110"><Link to="/mapa">Ir al Mapa interactivo</Link></button>
         <button className="bg-moradoSicetno text-white py-2 px-10 m-2 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-verdeSicetno transform hover:-translate-y-1 hover:scale-110"><a target="_blank" rel="noopener noreferrer" href="https://www.sicetno.org/ords/f?p=2000100:1::::::">Ir a la Base de Datos<IconArrow className="w-6 inline ml-2" /></a></button>
+        <button className="bg-naranjaSicetno text-white py-2 px-10 m-2 rounded-3xl shadow-lg transition duration-500 ease-in-out hover:bg-verdeSicetno transform hover:-translate-y-1 hover:scale-110"><Link to="/mapa">Ir al Mapa interactivo</Link></button>
       </div>
     </header>
     <main className="container mx-auto px-10 md:px-5 text-justify leading-7">
